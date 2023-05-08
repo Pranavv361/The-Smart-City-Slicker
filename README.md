@@ -1,52 +1,58 @@
-## cs5293sp23-project2 (Text - Analytics Project 2)
+## cs5293sp23-project3 (Text - Analytics Project 3)
 ## Author - Pranav Vichare
-## Cuisine Predictor
-**About:**  Project 2's purpose is to produce applications that take a user's list of components and attempt to forecast the type of cuisine and related meals. Assume a chef has a list of ingredients and wants to update the present meal without changing the components. The following steps should be taken.
-1. Train (or index for search) the specified food data.
-2. Request that the user enter all of the elements in which they are interested (through command line arguments).
-3. Predict the type of cuisine using the model (or search index) and inform the user.
-4. Find the top-N most nearby foods (N specified via a command line option). Return to the user the IDs of those dishes. If a dataset does not have IDs assigned to it, you can add them at your leisure.
+## The Smart City Slicker
+**About:**  Project 3's purpose is to  to investigate themes and similarities for smart cities with the use of cluster analysis, topic modeling, and summarization. Assume you are a stakeholder in a rising Smart City and want to know more about themes and concepts about existing smart cities. You also want to know where does your smart city place among others. The following steps should be taken.
+1. Download and clean pdf documents.
+2. Create and explore clustering models.
+3. Perform topic modeling to derive meanings.
+4. Extract a summary and keywords for each smart city document.
 
 To run the code, Use the commands below in terminal or Visual Studio Code
 ```python
 pipenv --python 3.9  #use your version of python which is installed on your system. This code is also used to create a virtual environment
-pipenv install scikit-learn #to install scikit-learn library in virtual environment
+pipenv install scikit-learn==1.0.2 #to install scikit-learn library in virtual environment
 pipenv install nltk #to install nltk library in virtual environment
 pipenv install pandas #to install pandas library in virtual environment
 pipenv install pytest #to install pytest library in virtual environment
+pipenv install numpy #to install numpy library in virtual environment
+pipenv install bs4 #to install bs4 library in virtual environment
+pipenv install spacy #to install spacy library in virtual environment
+pipenv install pypdf2 #to install pypdf2 library in virtual environment
+#to install spacy en_core_web_sm model in virtual environment
+pipenv install https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.4.1/en_core_web_sm-3.4.1-py3-none-any.whl
 pipenv lock #to create piplock file
 ```
 
 ```python
-import json
-import sys
 import argparse
-import numpy as np
+import sys
 import os
 import pandas as pd
-from modules import PreprocessAndModelling
-import traceback
-import re
-
+import PyPDF2
 import nltk
-nltk.download('wordnet',quiet = True)
-nltk.download('omw-1.4',quiet = True)
-
-from nltk.stem import WordNetLemmatizer
-from sklearn.calibration import CalibratedClassifierCV
-from sklearn.compose import ColumnTransformer
+nltk.download('stopwords', quiet = True)
+import spacy
+import unicodedata
+import re
+from nltk.corpus import wordnet
+import collections
+from nltk.tokenize.toktok import ToktokTokenizer
+from bs4 import BeautifulSoup
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.model_selection import train_test_split, cross_val_score
-from sklearn.preprocessing import LabelEncoder
-from sklearn.pipeline import Pipeline
-from sklearn.svm import LinearSVC
-import joblib
+from sklearn.cluster import KMeans, AgglomerativeClustering, DBSCAN
+from sklearn.metrics import silhouette_score, calinski_harabasz_score, davies_bouldin_score
+from joblib import load
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.tokenize import word_tokenize, sent_tokenize
+from collections import Counter
+import numpy as np
 ```
 To run the code, Import all the libraries listed above in the python code.
 
 To run the code from the terminal use below command:
 ```
-pipenv run python project2.py --N 5 --ingredient bananas --ingredient paprika --ingredient "rice krispies"
+pipenv run python project3.py --document city.pdf --summarize --keywords"
 ```
 
 ### Code Explanation  
@@ -69,16 +75,16 @@ These values are stored in the stats files.
 *The output video of the execution with the images is stored in **Output videos and images** folder*
 
 ### Code Output
-The code output is stored in stored in file with name : **output.json**.
-![image](https://github.com/Pranavv361/cs5293sp23-project2/blob/main/Output%20videos%20and%20images/project2.py%20Execution.png)
+The code output is stored in stored in file with name : **smart_predict.tsv**.
+![image](https://github.com/Pranavv361/cs5293sp23-project3/blob/main/docs%20-%20Execution%20video%20and%20images/project3.py%20Execution.png)
 
 ### Test Output
-The test cases are created in single file **test_project2.py**. The purpose of the test_project2.py is to check the functions with sample input and make sure we get correct output. The attached image below shows the output for test cases of all the functions.
+The test cases are created in single file **test_project3.py**. The purpose of the test_project3.py is to check the functions with sample input and make sure we get correct output. The attached image below shows the output for test cases of all the functions.
 To run the test_project2.py using pytest library use the following code.
 ```
 pipenv run python -m pytest
 ```
-![image](https://github.com/Pranavv361/cs5293sp23-project2/blob/main/Output%20videos%20and%20images/test_project2.py%20Execution.png)
+![image](https://github.com/Pranavv361/cs5293sp23-project3/blob/main/docs%20-%20Execution%20video%20and%20images/test_project3.py%20Execution.png)
 
 The **load_data()** function is tested using the **test_load_data()** method. It makes a test directory, generates a JSON file with test data named **test.json** in **docs** folder, then loads it with the **load_data()** function. The function then checks to see if the output is a pandas DataFrame, if the column names are correct, and if the data matches the expected values.
 
@@ -87,7 +93,7 @@ The function **test_normalize_data()** verifies the **normalize_data()** functio
 The **modeltrain()** function created in the PreprocessAndModelling module is tested using the **test_modeltrain()** method. It uses the **load_data()** method to load the yummly.json file, and then gives the loaded data, a list of ingredients, and a number to the **modeltrain()** function. After that, the function checks to see if the output lists contain the expected lengths and data types.
 
 ### Assumptions:
-1. The data file should always be .json file.
+1. The data file should always be .pdf file.
 
 ### Bugs:   
-1. The LSVC model will not work for datapoints less than 10 as it uses crossvalidation with cv = 10.
+1. Some words in keywords/summary and topics are incomplete because of normalizing techniques used.
