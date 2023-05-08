@@ -1,0 +1,2033 @@
+city_state	Raw Text	Normalized Text	Cluster ID	Topic_ids	summary	keywords
+ Rochester, NY	"WHAT’S INSIDE
+Our Vision 1
+Our Popula Ɵ on Characteris Ɵ cs 6
+Other Characteris Ɵ cs 7
+Preliminary Site Map 9
+Our Approach 10
+Risk Management 19
+Our Team 20
+Our System 21
+Data Collec Ɵ on 24
+Architecture, Standards & Processes 26
+Goals & Objec Ɵ ves 27
+Evidence of Capacity 28
+Opportuni Ɵ es to Leverage 
+Federal Resources      29
+LeƩ ers of Commitment are in Appendix AOUR VISION
+The City of Rochester is resurgent. Historically 
+one of America’s ﬁ  rst “boomtowns,” Rochester 
+has more recently endured a half-century of decline, causing job-loss, reduced private sector sources of regional funding, and a high percentage of poverty-stricken ci Ɵ zens. 
+Today, our city is experiencing a wave of revitalizaƟ on. Thousands of units of new 
+housing have or soon will be built in the Center City, and an emerging Downtown InnovaƟ on Zone is genera Ɵ ng high quality 
+jobs and investment. These combined forces have changed the fortunes of our urban core, where the focus is now on managing growth rather than stemming decline. Whether dissecƟ  ng the Midtown Plaza superblock, 
+removing the sunken Inner Loop Expressway, developing intermodal transporta Ɵ on hubs, or 
+aggressively building out an extensive bicycle network, the City of Rochester is commiƩ  ed to 
+creaƟ ng a smart, sustainable city for the 21st 
+Century.
+However, our city and region faces a cri Ɵ cal 
+test that will determine whether or not that 
+21st Century city meets the needs of all of our residents. In spite of its abundant resources and apparent wealth, Rochester, when compared to other mid-sized ci Ɵ es, is home 
+to a crippling concentra Ɵ on of urban poverty. 
+Recent studies indicate that Rochester has the highest rate of child poverty, the highest rate of extreme poverty, and the second-highest rate of poverty overall in the na Ɵ on. Unless the 
+rate and scale of poverty in our community is addressed, the city and region will struggle to meet its full poten Ɵ al.
+Through the leadership of Mayor Lovely Warren and Governor Andrew Cuomo, in coordinaƟ on with a broad public, private, 
+and non-pro ﬁ t iniƟ aƟ ve, the community has 
+targeted a 50% reduc Ɵ on in poverty over the next 15 years. To that end, Rochester recognizes the unique opportunity that the Smart City Challenge provides to dedicate technological advancements in the transporta Ɵ on sector to achieve our goal of 
+reducing urban poverty and improving the quality of life for all ci Ɵ zens. This will be done 
+in three ways: improving safety for travelling ciƟ zens, enhancing mobility by crea Ɵ ng more 
+and beƩ er travel op Ɵ ons, and advancing 
+environmental sustainability by reducing energy consump Ɵ on and greenhouse gases 
+(GHG). 
+By invesƟ ng in the Smart City Challenge and 
+leveraging private sector funds, we will be 
+able to enhance long-term transporta Ɵ on 
+soluƟ ons that be Ʃ er connect communi Ɵ es 
+to employment centers, educa Ɵ on centers, 
+health care facili Ɵ es, and services. The City 
+of Rochester and its assembled consor Ɵ um 
+of partners, is commiƩ  
+ed to successful 
+implementa Ɵ on of the Smart City Challenge. If 
+awarded, the results achieved in Rochester will be replicable in ci Ɵ es across the country.
+TransportaƟ  on & Poverty
+Transporta Ɵ on has played a regre Ʃ able 
+role in crea Ɵ ng an environment in which 
+poverty can concentrate and spread. CiƟ  es 
+have historically grown outward with each transporta Ɵ on innova Ɵ on as faster, more 
+eﬃ  cient transporta Ɵ on services enabled 
+people to live further from the historic center. This phenomenon is nothing new. However, the prolifera Ɵ on of the car, coupled with 
+supporƟ ve infrastructure, land use, and 
+ﬁ nancial policies, enabled this to take place on 
+a massive scale beginning in the 1950s.
+The impact on ci Ɵ es such as Rochester was 
+two-fold. First and foremost, suburbaniza Ɵ on 
+robbed ci Ɵ es of a signi ﬁ cant share of their 
+middle and upper-income families, leaving Our goal is to reduce poverty by 50% in 15 years, using 
+our Smart City Vision as a driving force of change. 
+City of Rochester, NY | 1ROC FORWARD»»»behind a largely poor and working-class 
+populace. The City of Rochester’s popula Ɵ on 
+peaked in 1950 at over 330,000; today, the City’s popula Ɵ on is just over 210,000, a loss 
+of more than one-third. Secondly, the rush to serve the car and compete with suburban development led ciƟ  es to make poor decisions 
+or allow such decisions to be made on their behalf. These decisions included wholesale demoliƟ on of neighborhoods to accommodate 
+interstates and expressways, o Ō en built 
+through established African-American communi Ɵ es; widening of streets to increase 
+vehicular throughput, typically at the expense of bicyclists and pedestrians; removal of streetcar and trolley lines from city streets and corridors; and demoli Ɵ on of historic buildings 
+and streets in favor of parking facili Ɵ es and 
+car-oriented development. 
+Rochester, like many ci Ɵ es, was scarred by 
+these decisions. As much of the historic 
+fabric of the city was destroyed, the social networks that bound residents and businesses together were lost as well. As people le Ō  
+the city, businesses followed, crea Ɵ ng a 
+downward spiral of disinvestment in many neighborhoods. This also created a spa Ɵ al 
+mismatch between new job opportuni Ɵ es and 
+lower-income residents. As jobs migrated to the periphery, inner city residents’ ability to access them became strained; this, combined with a host of other factors, ul Ɵ mately resulted 
+in chronic unemployment and poverty in city neighborhoods.Transporta Ɵ on is neither the cause of nor 
+soluƟ on to poverty. However, it is undeniable 
+that transporta Ɵ on is a contribu Ɵ ng factor 
+and that e ﬀ orts to improve accessibility and 
+mobility for all residents can signi ﬁ cantly 
+improve outcomes for our city’s most disadvantaged. Take Sheila for example; she resides in a city neighborhood and works a low-wage job at a small manufacturer a short walk from home. Sheila is able to stay out of poverty in part because, although she does not own a car, most everything she needs is located within her local community. Day care, grocery, health care, and employment are all within easy reach. 
+However, the employer decides to relocate the 
+business to a suburban site ten miles away. The new locaƟ on is too far to walk or bike and is 
+poorly served by transit. Sheila cannot a ﬀ ord a 
+car on her salary and must rely on the current transit service. Because bus service is not as frequent in this low-density suburban area, she must now add 90 minutes to her daily commute each way. Her day care provider can no longer accommodate her child’s schedule and so a new provider is found, adding another 30 minutes to the commute. Sheila’s health and that of her child su ﬀ er as doctor visits 
+must be curtailed. She o Ō en shows up late to 
+work due to the ﬂ  uctuaƟ ons in travel Ɵ mes 
+caused by tra ﬃ  c condiƟ ons, weather, and 
+other events out of her control. This prompts her employer to terminate her posiƟ  on. With 
+no comparable employment opportuni Ɵ es in 
+HIGHEST
+The highest rate of  
+childhood poverty (50.1%) The highest rate of  
+extreme povertyThe second-highest rate  
+of poverty in the nation HIGHEST SECOND-HIGHEST
+Rochester’s Poverty Issue by the Numbers: according to a September 2015 Rochester Monroe AnƟ -Poverty IniƟ  aƟ ve report. 
+City of Rochester, NY | 2ROC FORWARD»»»her neighborhood, Sheila and her child are 
+now living in poverty.
+This is a very common scenario playing out 
+in Rochester and in ci Ɵ es naƟ onwide. Unless 
+addressed, it threatens our na Ɵ on’s future 
+economic compe Ɵ Ɵ veness. Yet it presents a 
+unique opportunity to use the resources of the Smart City Challenge to make our ci Ɵ es’ future 
+transporta Ɵ on system work for all residents. 
+This is Rochester’s challenge - one that we are well prepared to address.
+Mayor Warren has taken steps to drive change, 
+launching the Mayor’s O ﬃ  ce of Innova Ɵ on 
+and Strategic Ini Ɵ aƟ ves, and leading the 
+Rochester-Monroe An Ɵ -Poverty Ini Ɵ aƟ ve 
+(RMAPI). Together with key agency partners, the City is preparing new program and policy recommenda Ɵ ons to impact poverty, including 
+issues of transporta Ɵ on. The program has 
+state level support from the oﬃ   ce of Governor 
+Cuomo and direct communica Ɵ ons with a task 
+force comprised of high level New York State oﬃ  cials. Governor Cuomo is already poin Ɵ ng 
+to the eﬀ ort as an example for other states to 
+follow.RMAPI and the City recently approved an anƟ -poverty target area encompassing three 
+conƟ  guous neighborhoods. This target area 
+will be where we will test and measure the impact of new an Ɵ -poverty strategies. The 
+area was selected through a data driven process that iden Ɵ ﬁ ed an area with good 
+exisƟ ng resources that is impacted by 
+socioeconomic issues. The O ﬃ  ce of Innova Ɵ on 
+will help design programs with data sharing best pracƟ  ces, and ensure capabili Ɵ es to track 
+long term individual outcomes. The O ﬃ  ce will 
+also be retained to evaluate program impact, and help make modi ﬁ caƟ ons when necessary. 
+Given the a Ʃ enƟ 
+on, investment, data sharing, 
+and evalua Ɵ on about to occur within this 
+area, it is an ideal loca Ɵ on to also pilot new 
+transporta Ɵ on technologies designed to 
+posiƟ vely impact people in poverty.
+hGF
+GFGF
+GF14621
+CONEA
+BEECHWOOD
+EMMABENSONHURST
+NEIGHBORHOOD OF THE ARTSN. MARKETVIEW HEIGHTS
+CENTRAL BUSINESS DISTRICT
+NORTH WINTON VILLAGES. MARKETVIEW HEIGHTS
+PARK MEIGSNEMNU
+PARK CENTRALNORTH WINTON VILLAGECULVER MERCHANTS
+CORN HILL WADSWORTH SQUARE CULVER UNIVERSITY EASTMainBay
+EastClifford
+Culverth
+ScioUnion
+Clintoneph
+Atlan ticUniversityson
+Portland
+Broad
+ParkWebster
+GoodmanSouth
+Alexander
+Ches
+tnutSt 
+Pa
+ulCart
+er
+AndrewsMe
+rchant
+s
+Central
+Exchange
+MonroeWoodburyNiagara Draper
+CircleClev eland
+BroadwayUniversityGoodman
+Libraries
+Recreation Centers
+3City Schools
+!U Social Service Providers
+GF Healthcare Providers
+h Employment Services
+Pilot Area BoundaryMapped by Henry Fitts
+City of Rochester
+Office of Innovation and Strategic Initiatives
+December 2015
+The AnƟ -Poverty Target Area: the neighborhoods of Marketview, Beechwood, and 
+EMMA. 
+City of Rochester, NY | 3ROC FORWARD»»»Our Proposed Elements
+The City of Rochester and its partners intend to 
+develop a 21st Century transporta Ɵ on system 
+that addresses our mobility and safety needs while growing the local and regional economy and oﬀ ering a stairway out of poverty. A 
+primary focus will be on enhancing transit accessibility for our residents, 73% of whom are underserved by public transporta Ɵ on. 
+We must face our challenges directly, creaƟ ng a path to quality jobs for our ci Ɵ zens 
+while building a more robust and smart transporta Ɵ on system. This is consistent with 
+our stated vision and with the USDOT Ladders of Opportunity Ini Ɵ aƟ ve promoted under 
+Secretary Foxx’s leadership. By inves Ɵ ng in 
+Rochester’s Smart City vision and leveraging private sector funding, we will create an enhanced transporta Ɵ on network that be Ʃ er 
+connects our residents to employment, educaƟ on, health care, and other services. 
+Our goal is to accelerate ongoing e ﬀ orts to re-
+establish Rochester as a global innova Ɵ on hub. 
+Through this program, we can create up to 10,000 high quality jobs in Rochester by 2020 and rebuild our manufacturing base in the process. The City and region are determined to work with our partners in the public and private sectors to have Connected Shared Automated Vehicles (CSAV) built in Rochester and the USA. We are engaged in preliminary discussions with EasyMile, one of our key partners in this endeavor, regarding this manufacturing facility. 
+The USDOT Smart City Challenge has shone 
+a light on innova Ɵ ve opera Ɵ onal strategies 
+and technologies such as connected vehicles (CV) and automated vehicles (AV), o ﬀ ering 
+new hope for addressing the complex transporta Ɵ on challenges we face as a 
+naƟ on and nourishing hopes for con Ɵ nued 
+economic prosperity. It’s clear that we cannot rely on past solu Ɵ ons to work in today’s 
+environment. Ci Ɵ es like Rochester constantly 
+face the dilemma of doing more with less. The growing frustra Ɵ on of travelers, combined 
+with worsening infrastructure performance, demand that new and innova Ɵ ve strategies be 
+developed. The applica Ɵ on of CSAV shu Ʃ les 
+for the ﬁ  rst and last mile o ﬀ ers the poten Ɵ al for signi ﬁ cant performance improvements 
+at much lower costs and in much faster Ɵ meframes than previously possible. These 
+soluƟ ons are scalable and synergize with 
+our City’s investments in mul Ɵ -modal 
+transporta Ɵ on improvements to meet the 
+needs of our residents, now and in the future. 
+The City of Rochester has assembled an 
+impressive consor Ɵ um of local, regional, and 
+state agencies and organiza Ɵ ons, 
+ insƟ tuƟ ons 
+of higher learning, and industry partners who are commiƩ  ed to the success of Rochester’s 
+vision for the Smart City Challenge and addressing an Ɵ -poverty iniƟ  aƟ ves. Highlights 
+of the primary proposed elements are listed below:
+Urban Automa Ɵ on – partnership 
+between the City, EasyMile, Kodak, and the Rochester Genesee Regional Transporta Ɵ on Authority 
+(RGRTA) to deploy automated 
+transit shu Ʃ les on the internal street network 
+of Eastman Business Park (EBP), a 1,200-acre private technology campus in the City of Rochester. This will solve ﬁ rst/last-mile 
+issues with transit accessibility, demonstrate the eﬀ ecƟ veness of automated transit, 
+and posiƟ on EBP and Rochester for future 
+economic growth. Upon successful tes Ɵ ng 
+at EBP , it is an Ɵ cipated that deployment 
+would transi Ɵ on to public streets in the City 
+of Rochester, with early deployment focused on the an Ɵ -poverty target area and/or the 
+Downtown Innova Ɵ on Zone. The City will work 
+with New York State to enact legisla Ɵ on that 
+facilitates automated vehicle deployment iniƟ ally in Rochester and then expanding 
+statewide. 
+Intelligent, Sensor-Based Infrastructure – partnership between the City and GE to deploy GE’s Current technology via the City’s extensive street ligh Ɵ ng 
+system. This technology uses 
+intelligent LED light ﬁ xtures ou ƞ iƩ ed with 
+sensors, transmiƩ  ers, and microprocessors 
+to create a comprehensive data grid oﬀ  ering 
+unparalleled possibili Ɵ es for a variety of 
+considera Ɵ ons, such as tra ﬃ  c opƟ mizaƟ on, 
+parking management, asset oversight, and environmental awareness.
+City of Rochester, NY | 4ROC FORWARD»»»Urban Analy Ɵ cs – partnership 
+between IBM, RIT, and the City 
+to harness the power of Big Data and RIT’s intellectual capacity to 
+address a wide variety of municipal 
+needs, such as performance measurement, service delivery op Ɵ mizaƟ on, and public 
+informaƟ on sharing.
+User-Focused Mobility Services and Choices  – partnership between 
+Xerox, RGRTA, shared mobility service providers, and the City to develop a leading edge applica Ɵ on 
+for real-Ɵ  me transporta Ɵ on informa Ɵ on to 
+enable be Ʃ er decision-making with respect 
+to travel op Ɵ ons and integrated payment for 
+those opƟ ons. This will advance the “Mobility 
+on Demand” concept and facilitate more of our residents to choose car-free or car-light lifestyles. Interoperable, mobile fare payment combining a wide variety of travel op Ɵ ons 
+(transit, rideshare, carshare, bikeshare, taxi, parking, etc.) is the goal and equitable access for un-banked residents without access to credit is a primary considera Ɵ on.
+Urban Delivery & Logis Ɵ cs – 
+partnership between Verdant Global and the City to establish a highly-e ﬃ  cient, automated 
+AgriFactory at an exis Ɵ ng vacant 
+warehouse in the City of Rochester. The Verdant AgriFactory will demonstrate a leap beyond tradi Ɵ onal greenhouse produc Ɵ on, 
+yielding signi ﬁ cantly more fresh healthy 
+produce than previously thought possible while also repurposing exis Ɵ ng vacant 
+warehouse space that is easily accessible to urban popula Ɵ ons. This technological 
+advancement has the poten Ɵ al to signi ﬁ cantly 
+reduce emissions by elimina Ɵ ng ineﬃ  cient 
+long-range transport of produce. Its fully automated system lends itself to local distribuƟ on via connected and/or automated 
+vehicles, just-in- Ɵ me delivery techniques, and 
+use of analy Ɵ cs to minimize con ﬂ icts between 
+delivery and tra ﬃ  c needs on city streets.
+Implementa Ɵ on of Rochester’s vision for a 
+Smart City will enable the USA to demonstrate global leadership in these emerging technologies, clearing the way for safer, more mobile, and sustainable ci Ɵ es. Furthermore, successful implementa Ɵ on will help Rochester, 
+and ciƟ es naƟ on
+wide, a Ʃ ack urban poverty 
+and improve the quality of life for those living in poverty. Rochester is a smaller city, enabling us to be more nimble and allowing the federal dollars to fund more innova Ɵ ve soluƟ ons. 
+Our collabora Ɵ ve, coopera Ɵ ve environment 
+minimizes risk, providing assurance that our city and region is focused on delivering a Smart City focused on the future. The consorƟ um that will guide this investment 
+is wide-reaching, demonstra Ɵ ng that our 
+community is suppor Ɵ ve of and invested in 
+implemen Ɵ ng the Smart City Challenge.
+Program Management
+Implementa Ɵ on of a comprehensive 
+governance framework is cri Ɵ cal to ensuring 
+interagency collabora Ɵ on and transparent 
+accountability throughout the life of the Smart City Challenge. The City of Rochester will serve as the primary Point of Contact with USDOT for all aspects of the Smart City Challenge. To assist City sta ﬀ  and leadership 
+with management responsibili Ɵ es, Stantec 
+will provide project management services and technical exper Ɵ se, working closely with 
+all project partners to ensure successful implementa Ɵ on of the City’s vision. It is 
+anƟ cipated that a Governing Board, chaired 
+by the Mayor and consis Ɵ ng of high-
+ranking o ﬃ  cials from the many public and 
+City of Rochester, NY | 5ROC FORWARD»»»private sector partners, will provide high-
+level oversight of the Smart City program. A Technical Council will provide ongoing operaƟ onal management of research and 
+technical ac Ɵ viƟ es. The City Engineer will 
+chair the Council, assisted by Stantec, with staﬀ -level representa Ɵ on from all project 
+partners. The City’s Director of Innova Ɵ on will 
+serve as Chief Data Oﬃ   cer for the purposes 
+of the Smart City Challenge. Lastly, a Ci Ɵ zens 
+Advisory CommiƩ  ee will be established with 
+representa Ɵ on from City sta ﬀ , Stantec, and 
+the many public advocacy organiza Ɵ ons 
+that will help to ensure that the Smart City iniƟ aƟ ves are mee Ɵ ng the needs of the public. 
+The Commi Ʃ ee will elect a Chairperson 
+from among its members, who will then serve on the Governing Board and appoint a representa Ɵ ve to serve on the Technical 
+Council.POPULATION CHARACTERISTICS
+Rochester is an ideal candidate for the Smart City Challenge. According to the 2010 Census, Rochester has a popula Ɵ on of 210,565 
+represenƟ ng a signi ﬁ cant share of the overall 
+populaƟ on (29%) living within the urbanized 
+area. The 35.78 square miles of land that comprise the City exhibit a density of 5,884.9 persons per square mile. Rochester is the third-largest city in New York State. It is the seat of Monroe County, which had a 2010 populaƟ on of 744,344. The city is at the center 
+of a larger six-county metropolitan area which had a popula Ɵ on of 1,079,671 in 2010. 
+Rochester is also a very diverse place. 41.7% of the popula Ɵ on is African American, 37.6% 
+is White, 16.4% is Hispanic or La Ɵ no, 3.1% 
+is Asian and 1.2% is American Indian, Alaska NaƟ ve or NaƟ ve Hawaiian. Further, recent 
+Census data indicates that Rochester has the highest rate of child poverty (50.1%), the highest rate of extreme poverty, and the second-highest rate of poverty overall in the naƟ on. With a diverse popula Ɵ on 
+and residents facing economic hardships, successful implementa Ɵ on of Smart City 
+elements in Rochester will have broad applicability in ci Ɵ es naƟ onwide.
+City of Rochester, New YorkU.S. Department of Transporta Ɵ on
+      Stantec Program ManagerGovernance Board
+Board Chair - Mayor Warren
+Technical Council
+Council Chair - City Engineer
+Chief Data O ﬃ  cerCiƟ zen Council
+Council Chair*
+*Elected by Members
+City of Rochester, NY | 6ROC FORWARD»»»OTHER 
+CHARACTERISTICS
+ExisƟ ng TransportaƟ  on 
+System
+Fixed route bus transit service in the City of Rochester and broader region is provided by the Rochester Genesee Regional Transporta Ɵ on Authority’s Regional Transit 
+Service (RTS). RTS currently operates more than 40 routes serving the city and neighboring suburbs. More than 18 million riders uƟ  lized RTS on an annual basis.
+Conducive Environment
+Rochester is one of America’s most crea Ɵ ve 
+communi Ɵ es. We rank among the top 
+communi Ɵ es for patents issued per capita as 
+well as the percentage of workers in crea Ɵ ve 
+industries. The talent pool and our collec Ɵ ve 
+capabiliƟ es are well-regarded. In summer 
+2015, Rochester was named the home for the new American Ins Ɵ tute for Manufacturing 
+Integrated Photonics, a Na Ɵ onal Network 
+for Manufacturing Innova Ɵ on (NNMI) 
+insƟ tute. It is no surprise that our City is 
+well-posiƟ oned to take a lead role among US ciƟ es to demonstrate and deploy advanced 
+transporta Ɵ on technologies. 
+Leadership Con Ɵ nuity
+The City of Rochester is a Strong Mayor-Council government system. In this system, the Mayor possesses wide-ranging administra Ɵ ve 
+control over government func Ɵ ons. Mayor 
+Lovely A. Warren is in the third year of her ﬁ  rst 
+term as Mayor and has already announced her intenƟ on to seek re-elec Ɵ on to a second term. 
+The primary sta ﬀ  members are long-term 
+municipal employees who possess signi ﬁ cant 
+experience with federal projects and programs. At the outset of the program, a succession plan will be developed to ensure con Ɵ nuity should 
+leadership or sta ﬀ -level changes take place.
+The project will be managed by the City’s Bureau of Architecture & Engineering and overseen by the consultant team at Stantec, a global ﬁ rm with recognized special Ɵ es in 
+advanced transporta Ɵ on technology. Stantec’s 
+involvement will also ensure con Ɵ nuity 
+and conƟ nued focus on successful program 
+delivery. 
+Sharing Economy
+Rochester is home to a strong tradi Ɵ on of 
+grassroots community development and alternaƟ ve thinking. The City is currently 
+working to support the sharing economy and 
+City of Rochester, NY | 7ROC FORWARD»»»alternaƟ ve ownership structures designed 
+to develop a more economically inclusive 
+community. In the last few years several e ﬀ orts 
+have popped up in these areas: 
+Market Driven Community Coopera Ɵ ves 
+Since 2014, the Mayor’s O ﬃ  ce of Innova Ɵ on 
+has been inves Ɵ gaƟ ng the poten Ɵ al for 
+economic development strategies centered around worker-owned coopera Ɵ ve businesses. 
+These businesses are designed to create entry level employment opportuni Ɵ es in some of 
+Rochester’s most distressed neighborhoods.
+Democracy Collabora Ɵ ve, a naƟ onal leader in 
+community wealth building and worker-owned 
+cooperaƟ ve development, recently completed 
+a study looking into the feasibility of this strategy in Rochester. Democracy Collabora Ɵ ve 
+remains involved with the Evergreen CooperaƟ ves, a successful model in Cleveland, 
+Ohio that links new worker-owned businesses to the supply chain needs of local anchor insƟ tuƟ ons like universi Ɵ es and hospitals. 
+The study iden Ɵ ﬁ ed signi ﬁ cant local 
+anchor interest and six speci ﬁ c business 
+opportuni Ɵ es based on market research. 
+Democracy Collabora Ɵ ve is recommending 
+forming a non-pro ﬁ t holding company to 
+provide administra Ɵ ve and human resources 
+support to subsidiary for-pro ﬁ t worker-owned 
+businesses. The non-pro ﬁ t will also manage a 
+revolving loan pool and business development services to help launch new worker-owned businesses. The Mayor and City Council are highly excited about the poten Ɵ al for this 
+project, and are funding the next phase of the project to ensure businesses will be operaƟ onal in early 2017. 
+Kiva Rochester Chapter - Though Rochester 
+has a robust small-business community, many entrepreneurs and would-be business owners face insurmountable ﬁ nancial 
+barriers when trying to launch or expand their businesses due to restric Ɵ ve lending 
+policies and assessments of risk. Kiva is an internaƟ onal crowdfunding micro ﬁ nance 
+insƟ tuƟ on that provides 0% interest loans to 
+low-income and underserved entrepreneurs and small businesses. Funding for the loans is secured through internet crowdfunding as well as matching funds from community organizaƟ ons. The loans are issued to quali ﬁ ed 
+borrowers following a process that evaluates and establishes creditworthiness. Borrowers undergo an assessment of creditworthiness through a process of social underwri Ɵ ng, 
+in which char
+acter and strength of support 
+networks - as opposed to exclusionary criteria such as FICO scores, collateral, and cash ﬂ ow 
+- are used as the best indicators of success. Borrowers pay back the loans to Kiva, who then reissues the funds to other quali ﬁ ed 
+borrowers. 
+The City is currently working with the 
+Rochester Area Community Founda Ɵ on and 
+local banks to establish a Rochester Kiva chapter with a $100,000 revolving loan pool that matches internet donors. The program will be launched in summer 2016 with a key Kiva staﬀ  person working with neighborhood 
+based organiza Ɵ ons in one of Rochester’s 
+underserved neighborhoods. 
+RocShare - RocShare is a new organiza Ɵ on, 
+founded in 2014, commi Ʃ ed to promo Ɵ ng 
+the sharing economy in Rochester. RocShare 
+has been inventorying and mapping sharing economy resources. They annually hold Sharefest, a conference showcasing local sharing economy e ﬀ orts, and the FreeMarket, 
+an event where donated items are available for new owners. Finally, RocShare has been working to provide policy proposals for how the City might be Ʃ er support the sharing 
+economy and associated e ﬀ orts.
+Open, Accessible Data
+The City is increasing the amount of open data it makes available to the public. In 2012, the City hired its ﬁ rst city-wide GIS coordinator in 
+the Department of Informa Ɵ on Technology. 
+In 2013, the City launched its ﬁ rst open data 
+portal - an interac Ɵ ve mapping interface 
+which allows neighborhood groups and ciƟ zens to explore their communi Ɵ es and 
+look at data points from crime to property values to compiled census demographics. The data is also available for download for more intensive analysis and comparison. The City looks forward to working with its partners, speciﬁ  cally IBM and RIT, to increase open 
+format data sharing with the public.
+City of Rochester, NY | 8ROC FORWARD»»» St.I-490I-490NYS 104NYS 104NYS 104NYS 104
+I-490I-490
+Erie CanalErie CanalRiverRiver
+CanalCanal
+Clifford Ave.Clifford Ave.
+W. MainE. Main
+Highland Ave.Highland Ave.
+Mt. HopeL
+East Ave.
+Monroe Ave.Monroe Ave.
+S. Clinton Ave.S. Clinton Ave.Atlantic   Ave.Emerson St.Emerson St.
+Lyell Ave.Lyell Ave.Norton St.Norton St.
+Goodman St.Goodman St.
+Culver Rd.Culver Rd.
+Portland Ave.Portland Ave.St.. PaaulSSt.Dewey Ave.Dewey Ave.LakeOnntarioStatePkwy.
+LakeLakeAve.Mt. Read Blvd.Mt. Read Blvd.
+I-390I-390I-390
+I-590I-590
+Chili Ave.Chili Ave.ErieErie
+Genesee
+BBroooksAve.LLakeOntario
+Ridgeway Ave.
+e
+e
+e
+e
+e.
+e
+e.
+e
+.
+e.
+e
+e.
+e
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+SSSS
+SSSSSS
+SSSSSS
+SSt
+SSSt
+SSt
+t
+t.
+t
+St
+t
+t
+n
+n
+n
+n
+n
+n
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+W
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+.
+.
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+EE
+EEEEM
+EEEEE..M
+EEEEEM
+E.M
+EEEE
+EEEEEE
+EEEEE
+EEEEE
+n
+n
+n
+in
+n
+n
+n
+n
+in
+n
+in
+AAAAAAAAttla
+AA
+ i
+c
+AAAAA
+AAAvv
+ ccccc
+AAAAv
+AAAAAAvv
+v
+AAAAAvv
+v
+v
+v
+v
+ ic
+AAAA
+AAAAA
+AAAAAAA
+AAA
+AAAAAA
+v
+v
+v
+v
+v
+AA
+AAA
+i
+pe
+e
+pe
+e
+pe
+pe
+e
+pe
+e
+e
+ Jobless Adults in Poverty per SqM
+    0 - 533    534 - 1066    1067 - 1599    1600 - 2131
+ 
+   
+ 
+ LEGEND
+    City of Rochester Border
+    R T S  B u s  R o u t e s
+    Eastman Business Park (EBP)    A n Ɵ-Poverty Target Area
+    C e n t e r  C i t y  P o t e n Ɵal Roadside 
+  Technology
+  Automated Vehicle
+  Transfer Hub @ EBP
+  Connected Vehicle
+  Demonstra Ɵon Area
+  P
+  T
+  A
+T
+A
+Tr
+  C o
+  D e
+  T
+C
+N
+L
+L
+L
+L
+L
+RochesterRochesterCity of   
+e
+e
+e
+ way A
+ayA
+A
+Ave
+ waAve
+ way Av
+ A
+A
+A
+v
+v
+v
+v
+v
+v
+v
+A
+A
+A
+A
+A
+A
+A
+A
+y
+y
+y
+y
+a
+a
+a
+A
+A
+A
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+BEYOND TRAFFIC: 
+THE SMART CITY CHALLENGE THE SMART CITY CHALLENGE 
+City of Rochester, NY | 9ROC FORWARD»»»OUR APPROACH
+Urban AutomaƟ  on
+The transporta Ɵ on system of 
+the 21st Century Smart City will 
+be safe, accessible, equitable, and sustainable. Automated transporta Ɵ on services represent 
+the next era of mobility innova Ɵ on. Automated 
+transit in par Ɵ cular oﬀ ers an exciƟ  ng 
+opportunity to augment and expand exis Ɵ ng 
+public transporta Ɵ on services in order to 
+beƩ er serve the mobility needs of our city’s 
+residents and businesses. Automated transit provides a new soluƟ  on to the ﬁ rst-mile/last-
+mile accessibility challenge of exis Ɵ ng ﬁ xed 
+route transit services. In partnership with EasyMile and Kodak, we propose to conduct ﬁ eld tesƟ ng and deployment of automated 
+transit shu Ʃ les at the 1,200-acre Eastman 
+Business Park (EBP) campus, located primarily within the City of Rochester. 
+EBP , formerly Kodak Park, is one of the na Ɵ on’s 
+largest urban technology campuses. EBP is 
+enƟ rely privately-owned and operated, with its 
+own streets, railroad, wastewater treatment, ﬁ re protec Ɵ on, and power genera Ɵ on. Over 
+6,000 workers are currently employed at EBP . With 2.5M square feet of space and over 300 acres of developable land, there will be signi ﬁ cant growth in the years ahead. 
+As such, EBP is a perfect real-world tes Ɵ ng 
+and deployment site for automated transit shuƩ les. There are currently six Regional 
+Transit Service (RTS) routes which provide access to EBP . However, because public buses do not operate on the campus, it can be challenging for workers to get between the bus stop and their workplace. Automated transit can solve this problem, leading to a greater share of trips being taken by transit.
+It is anƟ cipated that deployment at EBP will 
+grow over Ɵ me, serving as a dis Ɵ nguishing 
+feature that a Ʃ racts jobs and investment 
+to this urban campus. Rochester will also 
+aggressively pursue opportuni Ɵ es for 
+manufacturing and assembly of these automated transit vehicles, poten Ɵ ally creaƟ ng large numbers of high quality jobs in our community. Upon successful tes Ɵ ng at EBP , it is 
+anƟ cipated that deployment would transi Ɵ on 
+to public streets in the City of Rochester, with early deployment focused on the an Ɵ -poverty 
+target area and/or the Downtown Innova Ɵ on 
+Zone. The City will work with New York State to enact legisla Ɵ on that facilitates automated 
+v
+ehicle deployment ini Ɵ ally in Rochester and 
+then expanding statewide.
+Connected Shared Automated Vehicle (CSAV) Shu Ʃ les
+Over the past few years there has been signiﬁ cant research and demonstra Ɵ on of 
+various AV products. Companies such as Google and automobile manufacturers have been tesƟ ng their AVs with impressive results 
+for a number of Ready-to-Market (RTM) products such as CSAV shu Ʃ les. More work 
+is needed to re ﬁ ne the technology, but the 
+pace of progress has accelerated. There is growing public awareness that the use of AVs by the public is a ma Ʃ er of when and not if. 
+In fact, starƟ  ng in 2016 many demonstra Ɵ on 
+projects will begin to gradually transi Ɵ on 
+to public streets across the globe. We want Rochester to take a lead role. Large companies and start-ups are inves Ɵ ng billions of dollars 
+in the research and development of AV technologies in combina Ɵ on with innova Ɵ ve 
+business models such as Uber and on-demand transit. Over Ɵ  me, this will result in a massive 
+transforma Ɵ on of the mobility landscape with 
+signiﬁ cant societal implica Ɵ ons. Safety is the 
+single most important bene ﬁ t associated with 
+AVs given that over 90% of tra ﬃ  c incidents are 
+caused by human error. 
+City of Rochester, NY | 10ROC FORWARD»»»A natural extension of AV technology is into 
+the sphere of public transporta Ɵ on. More 
+speciﬁ  cally, the applica Ɵ on of electric CSAV 
+shuƩ les for complemen Ɵ ng and integra Ɵ ng 
+with tradi Ɵ onal modes of transit. This has 
+been in the demonstra Ɵ on phase in Europe 
+for the CityMobil2 ini Ɵ aƟ ve (see image below) 
+during the past ﬁ ve years and holds great 
+promise in addressing the challenges faced by transit operators. Today these agencies face growing public frustra Ɵ on with inadequate 
+parking at major transit centers and lack of reliable connec Ɵ ons, which nega Ɵ vely impact 
+ridership targets. 
+ 
+CSAV shu Ʃ les can also address mobility 
+requirements in urban se ƫ  ngs such as college 
+campuses and large residen Ɵ al developments. 
+For example, city residents may face daily challenges ﬁ nding parking spaces for inter-
+city trips and/or access to and from transit staƟ ons. CSAV shu Ʃ les can address these 
+challenges in a very e ﬃ  cient, reliable, safe, 
+and friendly manner. They can be especially eﬀ ecƟ ve in areas not served by tradi Ɵ onal 
+bus or mass transit and can help connect those centers with transporta Ɵ on hubs. 
+Furthermore, CSAV shu Ʃ les can serve as 
+new modes of transit with dynamic rou Ɵ ng 
+- in essence combining the best features of ridesharing services with tradi Ɵ onal 
+ﬁ xed-route opera Ɵ ons. CSAV will allow 
+impoverished ci Ɵ zens get to their jobs. 
+Depending on speci ﬁ c CSAV shu Ʃ le 
+implementa Ɵ on scenarios (urban centers or ﬁ rst/last-mile) some infrastructure prepara Ɵ on 
+may be required. For example, CSAV shu Ʃ les 
+can share space with bicycles in a downtown ar
+ea with dedicated curb-side bicycle lanes. 
+In other cases, such as connec Ɵ ng major 
+transit hubs to parking areas, Hard Shoulder Running (HSR) strategies can be deployed to accommodate higher speed CSAV shu Ʃ les. 
+The Rochester se ƫ  ng and number of college 
+campuses and business parks presents mulƟ ple opportuni Ɵ es for synergis Ɵ c 
+applicaƟ on of CSAV shu Ʃ les during peak hours. 
+Keys to success of CSAV shu Ʃ les are:
+ »Technology tes Ɵ ng and prototype 
+development (ongoing)
+ »Appropriate regulatory frameworks for operaƟ ons under reduced speeds for 
+safe and e ﬃ  cient early deployment (in 
+development)
+ »IdenƟ ﬁ caƟ on of sites with demonstrated 
+transit need, demand, and infrastructure integraƟ on
+ »OperaƟ onal exper Ɵ se to ensure e ﬃ  cient 
+and reliable services
+ »Improved “backbone transit” such as BRT, connecƟ  on buses, or shu Ʃ le buses to 
+improve travel Ɵ me and reliability
+CSAV shu Ʃ les can operate at low speeds 
+(25mph) and can be integrated with dedicated bicycle lanes that are increasing in Rochester and ciƟ es across North America. This 
+approach will help to accelerate CSAV shu Ʃ le 
+adopƟ on, enhance transit system ridership, 
+and contribute to modal shi Ō  and the overall 
+opƟ mizaƟ on of our transporta Ɵ on network in 
+Rochester. 
+Complemen Ɵ ng Mass Transit
+The CityMobil2 Ini Ɵ aƟ ve 
+City of Rochester, NY | 11ROC FORWARD»»»Connected Vehicles
+Rochester is an older, fully built-
+out city with minimal opportunity to physically grow. In fact, the City has aggressively pursued a 
+program of “right-sizing” streets to be Ʃ er 
+meet the needs of today’s popula Ɵ on. In the 
+past, the primary focus of street design was on wider roads and faster moving car tra ﬃ  c. 
+Today the goal is to accommodate cars while maximizing space for other users, namely bicyclists, pedestrians, and transit users. To conƟ  nue this approach in the face of rising 
+demand now and in the future, it is cri Ɵ cal 
+to maximize the e ﬃ  ciency of the exis Ɵ ng 
+transporta Ɵ on system. 
+Connected vehicle technology provides previously unimaginable opportuni Ɵ es 
+to beƩ er manage the system by greatly 
+enhancing tra ﬃ  c safety, monitoring and 
+responding to tra ﬃ  c condiƟ ons in real- Ɵ me, 
+opƟ mizing emergency response and public 
+transporta Ɵ on services, among many other 
+bene ﬁ ts. Connected vehicle technology will 
+allow ciƟ es to meet demand, improve service, 
+and reduce costs. To that end, the City of Rochester proposes to partner with GE to deploy their Current® technology on the City street system.
+Current takes advantage of the exis Ɵ ng street 
+lighƟ ng system to deploy a network of sensors, 
+transmiƩ  ers, and microprocessors that can 
+communicate with vehicles. This technological 
+advancement oﬀ  ers a myriad of possibili Ɵ es, 
+such as advising drivers of unexpected hazards or upcoming tra ﬃ  c conges Ɵ on and sugges Ɵ ng 
+alternate routes, or warning a wrong-way driver entering the expressway system while simultaneously no Ɵ fying authori Ɵ es and the 
+traveling public.
+The City will also partner with Mobileye 
+to deploy their Shield+ collision avoidance technology on both the RTS bus ﬂ eet as well 
+as on the City’s ﬂ eet of nearly 500 public 
+works vehicles. This will greatly enhance safety for bicyclists and pedestrians on city streets while providing be Ʃ er travel Ɵ me reliability 
+and service delivery to our residents and businesses.Intelligent, Sensor-Based 
+Infrastructure
+A Smart City is able to collect 
+and analyze data to inform the public, measure performance, and opƟ mize investment 
+decision-making. In the absence of a robust network of sensors, 
+collecƟ ng reliable data and providing real- Ɵ me 
+informaƟ on is a signi ﬁ cant challenge. Through 
+our proposed partnership with GE, sensors will be ubiquitous throughout the city, enabling City government to collect a wide range of data, including mul Ɵ -modal tra ﬃ  c volumes 
+and speeds, pavement condi Ɵ on, weather 
+informaƟ on, ambient air quality data, parking 
+availability, and motor vehicle crashes. The City will work in partnership with RIT and IBM to determine how best to integrate this new data collecƟ on capability with exis Ɵ ng data in order 
+to improve customer service, manage costs, and improve government accountability.
+Like many other ciƟ  es across USA, Rochester’s 
+roadway infrastructures, including pavements, 
+bridges, and signs, are deteriora Ɵ ng rapidly 
+due to material aging, improper usage, harsh environments, and natural and man-made damages. With the advancement of sensor technologies, it becomes feasible to collect the large-scale, in- ﬁ eld, and detailed infrastructure 
+data, such as 3D pavement surface data, using high-performance cameras, lasers, LiDARs, and InerƟ al Naviga Ɵ on System (INS). This allows 
+for beƩ er insight and understanding of large-
+scale in- ﬁ eld infrastructure behavior. We will 
+build a framework for the sensor-based and spaƟ ally-enabled next genera Ɵ on intelligent, 
+sustainable infrastructure management system, including the key components of data acquisiƟ on, automa Ɵ c informa Ɵ on extracƟ  on, 
+data integra Ɵ on, and intelligent infrastructure 
+management with assistance from our partners, IBM and GE.
+City of Rochester, NY | 12ROC FORWARD»»»Urban Analy Ɵ cs
+A wealth of new data will be 
+generated through the many iniƟ aƟ ves of our Smart City vision, 
+complemen Ɵ ng a growing supply 
+of data that is already available. Our industry partners at IBM are 
+recognized global leaders in analy Ɵ cs, with 
+unmatched experƟ  se in working with agencies 
+and organiza Ɵ ons around the world to solve 
+problems using the power of informa Ɵ on. IBM 
+will work in tandem with an interdepartmental research team at RIT, in conjuncƟ  on with 
+the City and non-pro ﬁ t community partners 
+such as Reconnect Rochester and the Center for Disability Rights, to develop informa Ɵ on 
+sharing pla ƞ orms, smart mobile applica Ɵ ons, 
+and other techniques to address a wide variety of issues ranging from Transporta Ɵ on Demand 
+Management in the downtown area to city-wide universal access and design and goods movement.
+User-focused Mobility 
+Services and Choices
+A criƟ  cal component in enhancing 
+mobility for travelers is to give 
+them beƩ er informa Ɵ on that can 
+be used to make smart decisions about their trip. Through our partnership with Xerox and other 
+partners, the City will develop a leading edge applica Ɵ on for real- Ɵ me transporta Ɵ on 
+informaƟ on to enable be Ʃ er decision-making 
+with respect to travel op Ɵ ons and integrated 
+payment for those op Ɵ ons, advancing the 
+“Mobility on Demand” concept and facilita Ɵ ng 
+more of our residents to choose car-free or car-light lifestyles. Interoperable, mobile fare payment combining a wide variety of travel opƟ ons (transit, rideshare, carshare, bikeshare, 
+taxi, parking, etc.) is the goal and equitable access for un-banked residents without access to credit is a primary considera Ɵ on. 
+Parking management is another important factor for the City. Parking can impact congesƟ on, aﬀ ect safety, and impede 
+access. Determining occupancy is the key to understanding demand and se ƫ  ng the appropriate metered parking prices. When hourly parking meter prices don’t keep up with demand, the search for parking becomes painful. That search creates conges Ɵ on and 
+dangerous condi Ɵ ons as frustrated motorists 
+circle for parking. While there’s a municipal impact on revenue, the real weight of these policy decisions rests squarely on the backs of customers, people like motorists, merchants, bicyclists, pedestrians, and other stakeholders.
+Xerox’s Merge® pla ƞ orm will provide a means 
+of managing parking opera Ɵ ons with a central 
+management solu Ɵ on. Merge® fully integrates 
+and provides analy Ɵ cs on all aspects of 
+metered and oﬀ  -street programs. The system 
+integrates hardware and soŌ  ware to provide 
+real-Ɵ  me informa Ɵ on about coin collec Ɵ ons, 
+meter maintenance, enforcement, and 
+occupancy by applying real- Ɵ me data to solve 
+parking and mobility issues.
+Our goal is to be inclusive with all ci Ɵ zens. 
+Therefore, we have engaged representa Ɵ ves 
+of the Center for Disability Rights, Inc. (CDR), a 
+not-for-pro ﬁ t, community-based advocacy and 
+service organiza Ɵ on for people with all types 
+of disabili Ɵ es, including over 10,000 disabled 
+adults aged 20-64 living in poverty. CDR has already provided a number of important insights regarding our transporta Ɵ on system of 
+today and tomorrow, including:
+»Univ
+ersal design should be used 
+throughout any transporta Ɵ on plan to 
+ensure we don’t have any segregated transporta Ɵ on for people with disabili Ɵ es.
+»For communica Ɵ on, emphasis should 
+be put on text communica Ɵ on either via 
+a texƟ ng or a web-based pla ƞ orm, like 
+TwiƩ er. This will help to target the younger 
+populaƟ on as well as the Deaf Community. 
+»All web-based site or applica Ɵ ons should 
+be screen-reader friendly to ensure the Blind popula Ɵ on has access to the 
+informaƟ on.
+»A mobile applica Ɵ on that iden Ɵ ﬁ es the 
+accessible entrance on buildings is needed to help with transporta Ɵ on coordina Ɵ on. 
+This would allow a person to choose to get oﬀ  at a bus stop closest to that entrance or 
+plan another accessible path of travel. 
+City of Rochester, NY | 13ROC FORWARD»»»Urban Delivery and 
+LogisƟ cs
+The Rochester team has included 
+Verdant Global to help transform Rochester into a truly sustainable Smart City. Their patented 
+technology enables them to produce fresh, consistent, insec Ɵ cide-free produce year 
+round. Their business model uses exis Ɵ ng 
+vacant structures and repurposes them to operate fully automated AgriFactories for local consump Ɵ on. The City will partner with 
+Verdant Global to establish a highly-e ﬃ  cient, 
+automated AgriFactory at an exis Ɵ ng vacant 
+warehouse in the City of Rochester. This will eliminate many long-haul delivery trucks from our busy streets and highways and greatly reduce GHG emissions. Its fully automated system lends itself to local distribu Ɵ on via 
+connected and/or automated vehicles, just-in-Ɵ me delivery techniques, and use of analy Ɵ cs 
+to minimize con ﬂ icts between delivery and 
+traﬃ  c needs on city streets.
+It will also provide much needed purpose for vacant and abandoned buildings, thereby invigoraƟ ng distressed neighborhoods 
+and proper Ɵ es. It may also lead to direct 
+employment, provide passive surveillance, create a new tax base, and poten Ɵ ally 
+sƟ mulate other economic and business 
+acƟ vity. Through their business case speci ﬁ cs, 
+the opportunity may exist to give back new sources of regional funding that can then be reinvested in the community through new community services, community centers and other social investments. We believe this can ulƟ mately lead to a reducƟ  on in poverty in the 
+very neighborhoods these ini Ɵ aƟ ves occur.
+Strategic Business Models 
+& Partnering
+The City of Rochester is a ﬁ rm 
+believer in entrepreneurial 
+government. This is evidenced by the establishment of the O ﬃ  ce 
+of Innova Ɵ on & Strategic Ini Ɵ aƟ ves and the 
+support it has received through Bloomberg Philanthropies and IBM’s Smarter Ci Ɵ es IniƟ aƟ ve to develop innova Ɵ ve soluƟ ons for 
+reducing poverty in our community. The City brings this same approach to the Smart City Challenge. As detailed in Sec Ɵ on 7, the City has 
+assembled a dynamic and broad consor Ɵ um 
+of partners across all levels of government, academia, business, and community. These partners are commi Ʃ ed to making Rochester 
+the successful Smart City that will serve as a model for using technological innova Ɵ on to 
+improve safety, enhance mobility, and protect the environment while also expanding equity and aƩ acking urban poverty. Upon no Ɵ ﬁ caƟ on 
+of our selec Ɵ on as a Smart City Finalist, the 
+City of Rochester will work with its partners to further de ﬁ ne roles and responsibili Ɵ es, and 
+terms of reference, for each func Ɵ onal body.
+The City of Rochester is partnering with RIT, a comprehensive na Ɵ onal research university 
+with nearly 19,000 students. RIT is a member (sub-grantee) of the Region 2 University Transporta Ɵ on Center (UTC) consor Ɵ um whose 
+strategic goal is economic compe Ɵ Ɵ veness. 
+This partnership will allow the City to leverage the intellectual capacity of both RIT and the UTC as a whole.
+It is anƟ cipated that opportuni Ɵ es for cost-
+sharing and in-kind service delivery will be 
+made available. The ability to leverage the federal resources provided through the Smart City Challenge to a Ʃ ract addi Ɵ onal ﬁ nancial 
+and technical assistance will help to ensure that Rochester’s Smart City vision produces a real and long-las Ɵ ng impact on Rochester, New 
+York State, and the na Ɵ on as a whole.
+Smart Grid, Roadway 
+Electri ﬁ caƟ on, & Electric 
+Vehicles
+The Oﬃ   ce of Electricity Delivery 
+& Energy Reliability (OE) has 
+taken on a na Ɵ onal leadership 
+role to modernize the na Ɵ on’s 
+electricity delivery system. A 
+Policy Framework for the 21st Century Grid describes four goals to be pursued to ensure that all Americans bene ﬁ t from investment 
+in the NaƟ on’s electric infrastructure: be Ʃ er 
+City of Rochester, NY | 14ROC FORWARD»»»alignment of economic incen Ɵ ves to boost 
+development and deployment of smart-grid 
+technologies; a greater focus on standards and interoperability to enable greater innova Ɵ on; 
+empowerment of consumers with enhanced informaƟ on to save energy, ensure privacy, 
+and shrink bills; and improve grid security and resilience. 
+OE has established seven principal smart grid 
+funcƟ onal characteris Ɵ cs:
+ »Self-healing from power disturbance events
+ »Enabling ac Ɵ ve parƟ cipaƟ on by consumers 
+in demand response
+ »OperaƟ ng resiliently against physical and 
+cyber aƩ ack
+ »Providing power quality for 21st century needs
+ »Accommoda Ɵ ng all genera Ɵ on and storage 
+opƟ ons
+ »Enabling new products, services and markets
+ »OpƟ mizing assets and opera Ɵ ng eﬃ  ciently
+By focusing on Eastman Business Park as a potenƟ al private pilot campus, the ability to 
+analyze each of these func Ɵ onal characteris Ɵ cs 
+in a seƫ  ng that is transferrable to a public 
+porƟ on of the City becomes possible.
+As part of an exis Ɵ ng program, the City 
+is partnering with Energe Ɵ cs and the 
+Electriﬁ  caƟ on CoaliƟ on to grow the Electric 
+Vehicle (EV) ecosystem in Rochester and in so doing, expand the market for EVs. EV Charging Sta Ɵ on Plans for the ﬁ ve regions 
+along the I-90 Corridor (Capital District, Mohawk Valley, Central New York, Genesee Valley/Finger Lakes, and Western New York) will be implemented, spurring EV acceptance and adop Ɵ on. The outcome will be: 1) 
+25 EV charging sta Ɵ 
+ ons (5 in each region) 
+strategically installed in cri Ɵ cal areas to enable 
+greater EV use, 2) educated municipali Ɵ es 
+on EV charging sta Ɵ on permi ƫ  ng and 
+communi Ɵ es on EV technology, 3) 900 rebates 
+for EV purchases to spur EV sales and establish more EV advocates (the new EV owners), and 4) 40 ride-n-drive events to promote EVs and allow consumers a test drive opportunity of diﬀ erent makes and models in a single 
+locaƟ on.The Rochester EV Deployment Community will also foster a model EV Community in which EVs are embraced by the public and promoted by business and government. This approach moves EVs from a niche product into a dominant and ubiquitous concept. The outcomes will be: 1) 9 EV charging sta Ɵ ons in 
+City of Rochester garages for public and city-owned EVs, 2) EVs for the City of Rochester as an ambassador of the technology and to showcase their opera Ɵ on, and 3) an 
+extensive community engagement to inform and educate the residents and businesses throughout the City about the bene ﬁ ts of EVs. 
+The Rochester EV Deployment Community will create replicable models for other New York communi Ɵ es to use for accelera Ɵ ng EV 
+adopƟ on.
+An example of a charging staƟ  on in Rochester.  
+City of Rochester, NY | 15ROC FORWARD»»»Connected, Involved 
+CiƟ zens
+Our ciƟ zens are going to determine 
+if any measures proposed to 
+address the Smart City Challenge are indeed a success. Fortunately, we have a number of strong, ciƟ  zen 
+lead organiza Ɵ ons that currently provide input 
+on transporta Ɵ on related issues. Three such 
+organizaƟ ons are: Rochester Cycling Alliance, 
+Reconnect Rochester, and Community Design Center Rochester. Through educa Ɵ on and 
+outreach, each of these groups help create a broad base of support for our exis Ɵ ng 
+public transit system, shape regional policies to improve the system, and reconnect our community in ways that improve personal mobility, urban vitality, environmental sustainability, and economic development. We would look to these groups, as well as other City and ci Ɵ zen-lead organiza Ɵ ons, to 
+be partners in all phases of the Smart City Challenge.
+We will be reaching out to ci Ɵ zens that are not 
+currently engaged through the use of the City’s 
+website, television and radio, public outreach meeƟ ngs, and social media. Social media will be especially useful in broadening public awareness of the ini Ɵ aƟ ves 
+that will be undertaken. We will meet people where they expect to be met in this day and age where 85% of American adults use the internet and 91% of adults have a cell phone. We want to engage a wide range of people during the process and the best way to reach an audience more inclined to use new technology is through social media. 
+Architecture & Standards
+Given the amount of data that will be collected from a variety of partners, a robust system of integrated funcƟ  onality supported 
+by a common, shared database is a must. The City of Rochester currently employs ITS systems for transporta Ɵ on data collec Ɵ on. As 
+described in the IBM Smarter Ci Ɵ es Challenge 
+Report, a solu Ɵ on based system will need to 
+incorporate the following:
+»Person-centric applica Ɵ ons
+»Mobility
+»Master data management
+»Content management systems
+»System interfaces
+»Data security
+»Role-based user access
+City of Rochester, NY | 16ROC FORWARD»»»»Audit-tracking and repor Ɵ ng
+»Data warehousing
+»OperaƟ onal repor Ɵ ng
+»AnalyƟ cs and predic Ɵ ve analyƟ cs
+»Document management
+»Disaster recovery and performance
+As an on-going task within the Smart City 
+Challenge, an evalua Ɵ on will be made of 
+these system components to determine if the exisƟ ng ITS system requires upda Ɵ ng. If new 
+standards are needed, recommenda Ɵ ons will 
+be provided to USDOT and the Connected Vehicle Reference Implementa Ɵ on (CVRIA) to 
+the extent possible. 
+Using the CVRIA, we will determine the roles, 
+processes, data ﬂ  ows, physical components, 
+and communica Ɵ on protocols necessary for 
+privacy and security opera Ɵ ons using the 
+SCMS prototype. We will concurrently use the Systems Engineering Tool for Intelligent Transporta Ɵ on (SET-IT) to complete the project 
+architecture of diagrams and de ﬁ niƟ ons of all 
+layers and func Ɵ onal components along with 
+an inclusive Privacy and Security Management OperaƟ onal Concept, aligning requirements to 
+necessary aspects of the CVRIA. Our program management consultant, Stantec, will iden Ɵ fy 
+the needs, stakeholders, systems, and Smart City Connected Vehicle applica Ɵ ons that will 
+make up our deployment program. We will enter the informa Ɵ on gathered into the SET-IT 
+soŌ ware and tailor each applica Ɵ on at layer 
+2 in the physical and enterprise views. We will then tailor the layer 1 and layer 0 physical diagrams as well as the layer 0 enterprise diagrams in prepara Ɵ on for presenta Ɵ on of 
+the project architecture to the stakeholder review panel. We will generate the Concept of OperaƟ ons from the SET-IT so Ō ware and 
+provide support and/or develop the remaining secƟ ons of the Concept of Opera Ɵ ons not 
+detailed in the generated document. InformaƟ  on & 
+Communica Ɵ ons Technology
+In Rochester, like many other ciƟ es, our exis Ɵ ng Informa Ɵ on and 
+Communica Ɵ on Technology (ICT) 
+infrastructure is lacking capital investment due to our resurgence 
+from the recessionary era of past decade. The Smart City Concept will allow us to re-evaluate our ICT infrastructure and build a robust, eﬃ  cient, secure and resilient ICT to lower 
+our consump Ɵ on while building a redundant 
+hi-bird communica Ɵ on system. Through our 
+partnership with IBM and GE, we will focus on Green Networking as the way to help reduce carbon emissions by the ICT industry. The Smart City Challenge will present us with opportunity to implement our City’s green networking vision by selec Ɵ ng energy-e ﬃ  cient 
+networking technologies and products, and minimize resource use whenever possible. Our ICT green networking prac Ɵ ce will include: 
+implemen Ɵ ng virtualiza Ɵ on; pracƟ  cing server 
+consolida Ɵ on; relying on cloud compu Ɵ ng; 
+upgrading older equipment for newer, more energy-eﬃ  cient product; employing system 
+management to increase e ﬃ  ciency; and 
+promoƟ  ng telecommuƟ  ng. Our vision is to 
+lower consump Ɵ on by 25% by 2025 and we 
+will leverage mostly private sector capital investment by providing mulƟ  -year incen Ɵ ves 
+in sharing cost reduc Ɵ on revenue. 
+We will develop security requirements for the DSRC devices that we expect to deploy in Rochester. We will follow the Common Criteria methodology, an ISO standard, to complete an analysis of needs and develop recommenda Ɵ ons for a security standard. 
+The methodology includes analyzing threats, assumpƟ ons, policies, objec Ɵ ves, and 
+developing security func Ɵ onal requirements 
+to miƟ gate threats and ensure con ﬁ denƟ ality, 
+availability, integrity, authen Ɵ city, and non-
+repudiaƟ on of transmi Ʃ ed data for ICT. We 
+will compare our analysis against similar domesƟ c and interna Ɵ onal eﬀ orts to ensure a 
+comprehensive assessment of security needs. Our team expects to leverage our exis Ɵ ng 
+analyses and update use cases, measures, 
+and requirements, with an overall system 
+City of Rochester, NY | 17ROC FORWARD»»»implementa Ɵ on and applica Ɵ on deployment 
+viewpoint, to develop and execute an e ﬀ ecƟ ve 
+security management opera Ɵ onal strategy. 
+Our partners at Stantec have extensive 
+experience with the current SCMS design through their close working rela Ɵ onship 
+with USDOT and its partners as they have developed the fundamental security system (SCMS) for vehicle-to-vehicle (V2V) and vehicle-to infrastructure (V2I) safety systems and applica Ɵ ons. Our team will leverage the 
+experƟ se in this domain to determine which 
+requirements can be ful ﬁ lled based on the 
+prototype SCMS and align these requirements to each SCMS func Ɵ onal component. Using 
+the CVRIA, we will determine the roles, processes, data ﬂ  ows, physical components, 
+and communica Ɵ ons protocols necessary for 
+privacy and security opera Ɵ ons uƟ lizing the 
+SCMS prototype. The team will concurrently use the SET-IT to complete project architecture of diagrams and de ﬁ niƟ ons at all layers 
+and funcƟ onal components along with an 
+inclusive Privacy and Security Management OperaƟ onal Concept aligning requirements to 
+necessary aspects of the CVRIA. The Security Management Opera Ɵ onal Concept will 
+include clear direc Ɵ on on how to approach 
+ensuring physical security at the vehicle and roadside infrastructure level. Several current hardware security standards exist for ensuring against tampering of physical devices, many of which may be applicable to DSRC devices integrated or added on to vehicles. In addi Ɵ on, maintaining strong 
+internal organiza Ɵ onal controls, whether 
+at the technical, legal, administra Ɵ ve, or 
+personnel levels should be developed and included in this Concept in order to provide as robust a security environment as possible. We have already conducted research and analysis into these areas of control, and will bring its understanding to development of the deployment plan. Tools to monitor, measure, and track security elements at all levels of the Smart City system will also be speci ﬁ ed in the 
+Security Management Opera Ɵ onal Concept.Smart Land Use
+The story of poverty in Rochester is one fueled by disinvestment and depopula Ɵ on. The City lost 
+24% of its popula Ɵ on between 
+1970 and 2010, and increased its 
+poverty rate by 18% over the same Ɵ meframe. 
+These ﬁ  gures are even more drama Ɵ c in high 
+poverty areas, with those who are able moving away from issues of crime and disinvestment towards safety and economic opportunity. Neighborhoods like Marketview Heights have had more than 20% of their homes demolished due to vacancy and blight. According to Census LODES Origin Des Ɵ naƟ on Data, less than 5% 
+of employed residents in neighborhoods like Marketview Heights hold jobs in their neighborhood, and over 50% of those employed are making long daily commutes to low skill jobs in the suburbs. Over 50% of the jobs located in the neighborhoods are held by suburban commuters. This seemingly illogical reverse commute is one of the hallmarks of the decline of these neighborhoods and the macro-economic forces driving this transforma Ɵ on. 
+To address this challenge, key recommenda Ɵ ons of both the Rochester-
+Monroe An Ɵ -Poverty Ini Ɵ aƟ ve (RMAPI) 
+and the IBM Smarter Ci Ɵ es IniƟ aƟ ve relate 
+to Smart Land Use. Speci ﬁ cally, RMAPI 
+recommends the purposeful development of ‘Complete Communi Ɵ es’ while IBM 
+recommends establishment of ‘Urban Villages.’ Both recommenda Ɵ ons focus on the 
+creaƟ on of dense, mixed-use development 
+Smart land use can create a complete community in neighborhoods like this.   
+City of Rochester, NY | 18ROC FORWARD»»»nodes that feature mixed-income housing, 
+retail and services, employment, health care, educaƟ onal facili Ɵ es and other services that 
+are well served by an integrated, mul Ɵ -modal 
+transporta Ɵ on network, minimizing the need 
+for private car use. The City will work with its Smart City partners to advance these recommenda Ɵ ons.
+The City of Rochester Zoning Code provides us with a strong founda Ɵ on. The Code 
+recognizes, promotes, and protects a dense, walkable, and mixed-use urban character that is sustainable and cri Ɵ cal to a Smart 
+City. The Code breaks away from tradi Ɵ onal 
+zoning which usually a Ʃ empts to separate 
+uses and o Ō en defers to vehicle-oriented site 
+development. Commercial Districts and Village Center Districts provide for a dense mixture of uses such as housing, retail and other complementary uses that serve the adjacent neighborhoods and the community at large. Design standards that create, enhance, and reinforce the design rela Ɵ onships between 
+buildings, sites, and streets establish an ambiance that is dense and pedestrian-oriented. The Zoning Code is evolving and will conƟ nue to respond to the need for 
+sustainable redevelopment in Rochester that protects the City’s uniquely urban character.The City is in the process of upda Ɵ ng its 
+Comprehensive Plan, which currently dates from 1999. A key component of the Comprehensive Plan Update is the upcoming Comprehensive Access & Mobility Plan, the transporta Ɵ on component of the Plan. The 
+update process has begun and will take place concurrent with the Ɵ meline of the Smart City 
+Challenge, providing a unique opportunity for the various Smart City ini Ɵ aƟ ves to inform the 
+Comprehensive Plan, which will guide land use and development policy and decision-making in Rochester for the foreseeable future.
+RISK MANAGEMENT
+Major iniƟ aƟ ves requiring collabora Ɵ on 
+of public and private en Ɵ Ɵ es working 
+towards deployment of transforma Ɵ ve and 
+groundbreaking solu Ɵ ons will require careful 
+and ongoing a Ʃ enƟ on to details to reduce risk 
+and assure successful outcome.  Our team has idenƟ ﬁ ed several high level key issues as well 
+as miƟ  gaƟ ng measures to address them as 
+noted in Table 1 below.
+Risk Category Key Issues Rank MiƟ gaƟ on
+TechnicalLegacy Systems’ 
+OperaƟ onal 
+IncompaƟ biliƟ esMedium Iden Ɵ fy and address as 
+early as possible in the process
+PolicyShiŌ ing of priori Ɵ es by 
+public agenciesHigh Maintain ongoing dialogue 
+among all par Ɵ es and 
+assess
+Dedicated ongoing O&M fundingMedium Assure Financial and 
+Business Plans necessary funding levels
+Need for State legisla Ɵ on 
+to enable innova Ɵ onMedium Work with State leaders 
+and elected delega Ɵ on to 
+craŌ  and pass legisla Ɵ on.
+InsƟ tuƟ onalKeeping the players at the tableHigh Maintain ongoing and 
+“something for Everyone” concept
+Team readiness, educa Ɵ on 
+and trainingMedium Engage all players in an 
+ongoing training programTable 1: Risk Management  
+City of Rochester, NY | 19ROC FORWARD»»»OUR TEAM
+Partners
+The City of Rochester, under the leadership 
+of Mayor Lovely Warren and with assistance from our commi Ʃ ed consor Ɵ um of partners, 
+is well structured and organized to accomplish this mission. The City has consistently taken a leadership role in transporta Ɵ on and 
+believes the future economic vitality of the region depends on the ability to provide safe, reliable, and e ﬃ  cient mobility through 
+the transporta Ɵ on network. It is clear that 
+in the 21st Century we will not be able to be compeƟ Ɵ ve economically without smarter 
+transporta Ɵ on networks that provide improved 
+transit accessibility to our underserved populaƟ on. We must provide an e ﬃ  cient 
+transporta Ɵ on system by using the latest 
+development in Connected Shared Automated Vehicles (CSAV) applica Ɵ ons, tesƟ ng emerging 
+technologies, and leveraging partnerships with the private sector. Examples are EasyMile, an interna Ɵ onal ﬁ rm that is considering 
+opportuni Ɵ es to establish a manufacturing 
+facility in Rochester, and other tech giants such as GE, IBM, Xerox and Kodak. 
+The City of Rochester, in collabora Ɵ on with 
+the public sector agencies, private sector 
+businesses, ins Ɵ tuƟ ons, public advocacy, and 
+non-pro ﬁ ts, is fully commi Ʃ ed to ROC Forward, 
+Rochester’s Smart City vision. If selected, Rochester will successfully establish itself as the model Smart City for the na Ɵ on. 
+Governance Processes
+Implementa Ɵ on of a comprehensive 
+governance framework is cri Ɵ cal to ensuring 
+interagency collabora Ɵ on and transparent 
+accountability throughout the life of the Smart City Challenge. The City of Rochester will serve as the primary Point of Contact with USDOT for all aspects of the Smart City Challenge. To assist City sta ﬀ  and leadership 
+with management responsibili Ɵ es, Stantec 
+will provide project management services and technical exper Ɵ se, working closely with 
+all project partners to ensure successful 
+Public Sector Private Sector Others
+City of Rochester (Lead Agency) Easy Mile Center for Disability Rights
+Genesee Transporta Ɵ on CouncilGE Community Design Center 
+Rochester
+Monroe CountyIBM Greater Rochester Chamber of 
+Commerce
+New York State Kodak Greentopia
+Rochester-Genesee Regional 
+Transporta Ɵ on AuthorityStantec Reconnect Rochester
+Verdant Global Rochester Cycling Alliance
+Xerox/PARC Rochester Downtown Development 
+Corp.
+Zipcar Rochester Ins Ɵ tute of Technology
+ZagsterTable 2: ROC Forward Smart City Consor Ɵ um  
+City of Rochester, NY | 20ROC FORWARD»»»implementa Ɵ on of the City’s vision. It 
+is anƟ cipated that a Governance Board, 
+chaired by the Mayor and consis Ɵ ng of high-
+ranking o ﬃ  cials from the many public and 
+private sector partners, will provide high-
+level oversight of the Smart City program. A Technical Council will provide ongoing operaƟ onal management of research and 
+technical ac Ɵ viƟ es. The City Engineer will 
+chair the Council, assisted by Stantec, with staﬀ -level representa Ɵ on from all project 
+partners. The City’s Director of Innova Ɵ on will 
+serve as Chief Data Oﬃ   cer for the purposes 
+of the Smart City Challenge. Lastly, a Ci Ɵ zens’ 
+Advisory CommiƩ  ee will be established with 
+representa Ɵ on from City sta ﬀ , Stantec, and 
+the many public advocacy organiza Ɵ ons 
+that will help to ensure that the Smart City iniƟ aƟ ves are mee Ɵ ng the needs of the 
+public. The Commi Ʃ ee will elect a chairperson 
+from among its members, who will then serve on the Governance Board and appoint a representa Ɵ ve to serve on the Technical 
+Council.
+Partnerships
+As referenced above, the City of Rochester has assembled an impressive and wide-ranging consorƟ um of public agencies, ins Ɵ tuƟ ons 
+of higher learning, leading edge private sector businesses, and public advocacy organizaƟ ons. Our primary academic partner 
+is RIT, a University Transporta Ɵ on Center 
+(UTC) consor Ɵ um member with signi ﬁ cant 
+and growing experience in transporta Ɵ on 
+research. RIT will coordinate research ac Ɵ viƟ es 
+associated with Rochester’s Smart City vision, thereby establishing long-las Ɵ ng partnerships 
+with the public and private sector. Our many world class private sector partners will work with the City to deploy their innova Ɵ ve 
+advanced transporta Ɵ on technologies, while 
+demonstra Ɵ ng proof of concept and leading 
+to commercializa Ɵ on that will grow the 
+naƟ onal economy and posi Ɵ on America as a 
+global leader in these emerging ﬁ elds. These 
+companies include: EasyMile, GE, Xerox, IBM, Kodak, and Verdant Global. We an Ɵ cipate 
+addiƟ onal public-private partnerships to 
+emerge as Rochester moves ahead as the selected city. Our public agency partners involve all levels of government: State (New York State Department of Transporta Ɵ on, the 
+Safety & Security Planning & Development Bureau, and Empire State Development), County (Monroe County), and regional (RTS, GTC).
+OUR SYSTEM
+Arterial Miles
+There are 103.96 centerline miles of arterial streets in the City of Rochester.  The vast majority of these streets are within the City’s jurisdicƟ on.
+Freeway Miles
+There are 14.95 centerline miles of freeway in the City of Rochester, all under the jurisdic Ɵ on 
+of New York State.
+Transit Services
+Rochester Transit Service (RTS) currently operates more than 41 routes serving the city and neighboring suburbs. More than 17 million riders u Ɵ lized RTS in 2013. The $40 
+million RTS Transit Center opened to the public in November 2014. The Transit Center created a centralized, indoor transfer point for bus patrons at the heart of the Downtown InnovaƟ on Zone.
+RTS also provides paratransit service for over 175,000 riders in accordance with the Americans with Disabili Ɵ es Act (ADA) to 
+cerƟ ﬁ ed customers with limited mobility.  
+GTC is currently developing an update to the Public Transporta Ɵ on Human Service 
+Coordinated Plan. As part of that e ﬀ ort, GTC 
+conducted analyses in support of the USDOT’s Ladders of Opportuni Ɵ es iniƟ aƟ ve. One of 
+the analyses included mapping the loca Ɵ on 
+of low- and middle-skills jobs in rela Ɵ on to 
+concentra Ɵ ons of poverty and ﬁ  xed route 
+bus service. This is shown on the map on the following page. 
+City of Rochester, NY | 21ROC FORWARD»»»Shared-Use Mobility 
+Services
+Carsharing services in the City of Rochester 
+are currently o ﬀ ered through Zipcar. There are 
+currently eight Zipcars available in the City and another two vehicles just south of the city at RIT. Zipcar and the City are working together to grow the availability of carshare services in the city. Zipcar is a partner in our Smart City vision. Although bikesharing is not currently available in Rochester, the City an Ɵ cipates an 
+iniƟ al rollout as soon as summer 2016. Zagster, 
+a bikeshare service provider, is a partner in our Smart City vision. Ridesharing services such as Uber and Ly Ō  are not currently able to operate 
+in New York State, outside of New York City. The City of Rochester is suppor Ɵ ve of pending 
+legislaƟ on in Albany to permit ridesharing 
+services to operate statewide. The City anƟ cipates this legisla Ɵ on will be approved in 
+2016. 
+GTC is the sponsor of roceasyride, a free, 
+easy-to-use online trip planning tool that helps people iden Ɵ fy opƟ ons to save money and 
+protect the environment by riding the bus, carpooling, and bicycling. It includes features that make it easy to track the cost savings and the environmental bene ﬁ ts that result. 
+Roceasyride serves individuals, businesses, and organiza Ɵ ons throughout the nine-county 
+Genesee-Finger Lakes Region, including the City of Rochester.!(!(
+!(!(!(
+!(!(
+!(
+!(!(
+!(!(
+!(!(
+!(!(!(
+!(!(
+!(
+!(!(!(!(
+!(
+!(!(!(
+!(
+!(!(
+!(!(!(
+!(
+!(!(
+!(!(!(
+!(!(
+!(
+!(
+!(!(
+!(!(
+!(!(!(
+!(!(!(!(!(
+!(
+!(!(!(
+!(
+!(!(!(
+!(
+!(!(
+!(!(
+!(!(
+!(
+!(!(
+!(!(!(
+!(!(!(!(
+!(!(!(
+!(!(!(
+!(
+!(!(
+!(!(!(!(
+!(!(
+!(
+!(!(
+!(
+!(!(!(!(!(
+!(!(
+!(!(
+!(
+!(!(
+!(
+!(!(
+!(!(!(
+!(!(
+!(!(!(!(
+!(!(
+!(
+!(!(!(
+!(
+!(
+!(!(
+!(!(!(!(!(
+!(!(
+!(
+!(!(!(
+!(!(!(
+!(!(
+!(
+!(!(
+!(
+!(!(
+!(!(
+!(
+!(!(
+!(
+!(!(!(
+!(!(!(
+!(!(
+!(
+!(!(
+!(!(
+!(
+!(!(
+!(!(
+!(!(
+!(!(
+!(!(!(
+!(!(
+!(
+!(!(!(
+!(!(!(
+!(
+!(
+!(!(
+!(!(!(
+!(
+!(!(
+!(!(!(!(
+!(!(
+!(
+!(
+!(
+!(!(
+!(!(
+!(
+!(!(
+!(!(!(
+!(!(!(
+!(
+!(!(
+!(
+!(!(
+!(!(!(
+!(
+!(!(
+!(!(
+!(!(
+!(
+!(
+!(!(!(
+!(!(
+!(
+!(!(
+!(!(!(!(
+!(!(
+!(!(!(
+!(
+!(!(
+!(
+!(
+!(!(!(!(
+!(!(
+!(
+!(!(
+!(
+!(!(!(
+!(!(
+!(
+!( !(!(
+!(!(!(
+!(
+!(!(!(!(!(
+!(!(!(
+!(!(
+!(
+!(!(
+!(
+!(!(!(!(
+!(
+!(!(
+!(!(!(
+!(!(!(!(!(
+!(
+!(
+!(!(
+!(!(!(
+!(!(
+!(!(!(
+!(
+!(!(
+!(!(!( !(!(
+!(
+!(!(
+!(!(
+!(!(
+!(
+!(!(
+!(
+!(!(
+!(
+!(!(!(
+!(!(
+!(!(
+!(!(!(!(
+!(
+!(!(!(!(!(
+!(
+!(!(
+!(!(
+!(!(!(
+!(!(!(
+!(
+!(
+!(!(
+!(!(
+!(
+!(
+!(
+!(!(!(!(
+!(!(
+!(!(
+!(
+!(
+!(
+!(!(
+!(!(
+!(!(!(
+!(!(
+!(!(
+!(!(
+!(!(
+!(
+!(
+!(
+!(!(
+!(!(
+!(!(
+!(
+!(!(!(
+!(
+!(!(
+!(!(
+!(
+!(!(
+!(
+!(
+!(!(
+!(
+!(!(
+!(!(!(!(
+!(!(
+!(
+!(!(
+!(!(
+!(
+!(!(!(!(
+!(!(
+!(!(
+!(!(
+!(
+!(!(
+!(
+!(!(
+!(!(
+!(!(
+!(!(
+!(
+!(!(!(
+!(
+!(!(
+!(!(!(
+!(
+!(!(
+!(
+!(!(
+!(
+!(!(!(
+!(!(!(
+!(
+!(!(!(
+!(!(
+!(!(
+!(
+!(!(!(!(
+!(!(!(!(
+!(
+!(
+!(!(
+!(!(
+!(
+!(
+!(!(
+!(
+!(
+!(
+!(
+!(!(
+!(!(!(
+!(!(
+!(!(
+!(!(
+!(
+!(!(!(
+!(
+!( !(
+!(!(!(!(
+!(!(!(
+!(
+!(!(
+!(
+!(
+!(!(
+!(!(!(!(
+!(!(
+!(!(
+!(!(
+!(!(
+!(
+!(!(
+!(!(!(!(!(
+!(
+!(!(
+!(
+!(!(
+!(
+!(
+!(
+!(!(!(
+!(!(!(!(
+!(
+!(!(!(
+!(!(!(
+!(
+!(!(!(
+!(!(
+!(
+!(!(!(
+!(!(
+!(!(
+!(!(
+!(!(!(
+!(!(!(
+!(
+!(!(!(
+!(
+!(!(!(
+!(
+!(!(
+!(!(!(
+!(
+!(!(
+!(!(!(
+!(
+!(
+!(
+!(!(
+!(!(
+!(!(
+!(
+!(
+!(!(!(!(
+!(!(
+!(!(
+!(!(
+!(!(
+!(!(
+!(!(!( !(!(!(
+!(
+!(
+!(!(!(!(
+!(
+!(!(
+!(WAYNE
+ONTARIOMONROE
+LIVINGSTONChili
+AvonRigaGreece
+Lima
+GorhamVictorHamlin
+RushOgden
+MendonPenfield
+CaledoniaOntario
+Sweden
+MarionWebsterClarkson
+WheatlandParma
+CanandaiguaMacedon
+Palmyra
+Perinton
+HopewellHenriettaWalworth
+FarmingtonManchesterWilliamson
+PittsfordGates
+East BloomfieldBrighton
+West 
+BloomfieldIrondequoit
+AvonHilton
+LimaWebster
+VictorBrockport
+CaledoniaFairport
+Honeoye
+FallsPalmyraMacedon
+BloomfieldSpencerport
+Churchville
+Scottsville
+ManchesterEast Rochester
+Pittsford
+Clifton
+Springs
+Shortsville
+RushvilleRochester
+Canandaigua
+´0 5 10Miles
+Transit, Roads, Boundaries: Genesee Transportation Council, 2015.
+Federal Poverty Status: U.S. Bureau of the Census, American Community Survey, 2009-2013.Employment - Annual Wages: U.S. Bureau of the Census, LEHD Program, 2010.Jobs Paying $15,000 - $40,000 Annual Wages
+!(Less than 50
+!(50 - 200
+!(200 - 400
+!(401 - 800
+!(801 - 1,600
+!(1,601 - 2,400
+!(More than 2,400
+Persons Below Federal Poverty Level / Sq. Mi.
+Less than 500
+501 - 2,000
+2,001 - 4,000
+4,001 - 6,000
+6,001 - 10,560
+Fixed-Route Bus Service
+Counties
+Municipal BoundariesConcentration of Poverty, Low- and Middle-Skilled Jobs, and Transit Bus Service
+Rochester Metropolitan Planning Area
+Prepared by Genesee Transportation Council Staff, July 2015Data Sources:
+Low- and Middle-Skill Jobs in Rela Ɵ on to Concentra Ɵ ons of Poverty & Fixed Route Bus Service
+City of Rochester, NY | 22ROC FORWARD»»»InformaƟ  on & Community 
+Technology (ICT)
+There is an extensive municipal ﬁ ber network 
+within the City of Rochester that possesses 
+excess capacity. The City and Monroe County are working together to take advantage of this resource, with par Ɵ cular interest in 
+considering a municipal wi- ﬁ  network. This 
+ﬁ ber backbone is a signi ﬁ cant advantage 
+for the deployment of Smart City Challenge elements. 
+Intelligent Transporta Ɵ on 
+Systems
+The Greater Rochester area is a recognized naƟ onal leader in regional coordina Ɵ on 
+for Intelligent Transporta Ɵ on Systems 
+(ITS) implementa Ɵ on. GTC facilitates a 
+Transporta Ɵ on Management Commi Ʃ ee 
+(TMC) that provides a forum for regional cooperaƟ on on ITS and opera Ɵ ons issues. 
+The City of Rochester is an ac Ɵ ve parƟ cipant 
+on the TMC and rou Ɵ nely collaborates with 
+Monroe County Department of Transporta Ɵ on, 
+which serves as the City’s tra ﬃ  c engineer, and 
+NYSDOT. On the strength of this and other iniƟ aƟ ves, regional agencies have deployed 
+hundreds of ITS ﬁ eld devices as well as central 
+control and communica Ɵ ons infrastructure 
+impacƟ ng every mode of transporta Ɵ on in 
+the region. As the facilitator of the TMC, GTC serves as the “gatekeeper” of the federally-mandated Regional ITS Architecture and works with all stakeholders to ensure relevant ITS elements and processes are consistent with the Regional ITS Architecture.
+A forthcoming endeavor of GTC, with oversight 
+of the TMC, is a Transporta Ɵ on System 
+Management and Opera Ɵ ons (TSMO) Strategic 
+Plan to update the exis Ɵ ng ITS Strategic 
+Plan that was adopted in 2011. The TSMO Strategic Plan will look at all exis Ɵ ng and 
+planned ITS elements and lay the groundwork for the implementa Ɵ on of connected and 
+autonomous vehicles in the region.Smart Grid
+In partnership with Energe Ɵ cs and the 
+Electriﬁ  caƟ on CoaliƟ on, the City is currently 
+assisƟ ng with development of the Electric 
+Vehicle (EV) Market Development Program using funding from the New York State Energy Research & Development Authority’s Cleaner Greener CommuniƟ  es Program. The 
+goal of this market development program is to sƟ mulate and expand the market for EV 
+purchases. It uses a three-pronged approach of installing EV charging sta Ɵ ons, oﬀ ering 
+EV incenƟ ves, and conduc Ɵ ng outreach. 
+It leverages and builds on prior NYSERDA sponsored projects and EV ini Ɵ aƟ ves, including 
+EV-readiness resources, ChargeNY website, regional EV charging sta Ɵ on plans, City of 
+Rochester’s EVSE demonstra Ɵ on project, and 
+EV tourism study for Mid-Hudson. Innova Ɵ ve 
+eﬀ orts are proposed that directly support 
+Governor’s ChargeNY ini Ɵ aƟ ve. 
+First, implemen Ɵ ng EV Charging Sta Ɵ on Plans 
+for the ﬁ  ve regions along the I-90 Corridor 
+(Capital District, Mohawk Valley, Central New York, Genesee Valley/Finger Lakes, and Western New York) will spur EV acceptance and adop Ɵ on in regions that lag behind 
+NYC’s and Long Island’s embrace of this clean technology. The outcome will be: 
+ »25 EV charging sta Ɵ ons (5 in each region) 
+strategically installed in cri Ɵ cal areas to 
+enable greater EV use. 
+ »Educated municipali Ɵ es on EV charging 
+staƟ on permi ƫ  ng and communi Ɵ es on EV 
+technology. 
+ »900 rebates for EV purchases to spur EV sales and establish more EV advocates (the new EV owners), and 
+ »40 ride-n-drive events to promote EVs and allow consumers a test drive opportunity of diﬀ erent makes and models.
+Second, the Rochester EV Deployment Community will foster a model EV Community in which EVs are embraced by the public and promoted by business and government. This approach moves EVs from a niche product into a dominant and ubiquitous concept. The outcomes will be: 
+ »9 EV charging sta Ɵ ons in City of Rochester 
+g
+arages for public and city-owned EVs. 
+City of Rochester, NY | 23ROC FORWARD»»» »EVs for the City of Rochester as an 
+ambassador of the technology and to showcase their opera Ɵ on. 
+ »extensive community engagement to inform and educate the residents and businesses throughout the City about the bene ﬁ ts of EVs. The Rochester EV 
+Deployment Community will create replicable models for other New York communi Ɵ es to use for accelera Ɵ ng EV 
+adopƟ on.
+DATA COLLECTION
+Current Data Collec Ɵ on
+The City has been con Ɵ nuously building 
+capacity to capture and analyze data to inform decision making and measure outcomes. It has a history of sound prac Ɵ ce in these areas 
+especially in areas of grant management outcome tracking and in the investment and planning decisions in the Department of Neighborhood and Business Development.
+The City recently overhauled its Geographic 
+InformaƟ on Systems and related IT 
+infrastructure. This has greatly improved the access and sharing of data within the City organizaƟ ons of not only of GIS data, but all 
+the City source data and other available public data.
+In spring 2015 the City launched the O ﬃ  ce of 
+InnovaƟ on and Strategic Ini Ɵ aƟ ves, a research 
+and strategy team repor Ɵ ng to Mayor Lovely 
+A. Warren. One major focus of the team is to 
+ensure that scien Ɵ ﬁ c tracking and outcome 
+measurement are the founda Ɵ on of any new 
+City iniƟ aƟ ves. This is not only to help evaluate 
+progress and track success, but also to posi Ɵ on 
+iniƟ aƟ ves for more sustainable funding 
+opportuni Ɵ es. 
+The City and the O ﬃ  ce of Innova Ɵ on is an 
+integral partner in the Rochester Monroe AnƟ poverty Ini Ɵ aƟ ve (RMAPI), a large 
+consorƟ um of government and non-pro ﬁ ts 
+working to impact poverty in Rochester. Together, the RMAPI and the City will insƟ tute an an Ɵ -poverty program in a pilot district to test e ﬀ ecƟ veness and measure 
+impact. Through this partnership, the O ﬃ  ce 
+of Innova Ɵ on will work with local and 
+state experts to design metric tracking that taps into data assets from non-pro ﬁ ts and 
+government agencies to track long-term individual outcomes and geographic trends. It will also work to implement best prac Ɵ ces 
+in data security, and privacy standards. As these programs move toward implementa Ɵ on, 
+staﬀ  responsible for sensi Ɵ ve personal data 
+will undergo training on privacy and security protocol. 
+The City currently has in place data sharing 
+agreements with the City School District, the 
+loc
+al Library system, and Monroe County. It 
+shares data on students, library patrons, and recreaƟ on center users. The City primarily 
+shares property assessment data and street asset data with the County. The City has also has expanded data sharing in partnership with Gov. Cuomo’s Open NY data ini Ɵ aƟ ve. The 
+Police Department also receives shared data from the NYS Department of CorrecƟ  ons and 
+Community Supervision and other state and federal law enforcement agencies to help track and improve police strategy.
+We have experience in and can leverage 
+data from a variety of sources such as tra ﬃ  c 
+cameras, other sensors, and social media to enable opportuni Ɵ es to opƟ mize opera Ɵ ons 
+(traﬃ  c ﬂ ow, automated tra ﬃ  c sign detecƟ  on, 
+and recogni Ɵ on), monitor infrastructure 
+condiƟ ons (road condi Ɵ ons, snow condi Ɵ ons, 
+pot holes), infrastructure planning (public transit), tra ﬃ  c enforcement (detec Ɵ ng 
+passenger compartment viola Ɵ ons, speeding 
+violaƟ ons), popula Ɵ on senƟ ment detec Ɵ on 
+for city agency policies, and system health monitoring.
+In addiƟ on to City data collec Ɵ on systems, 
+Genesee Transporta Ɵ on Council (GTC) 
+commissions an annual land use monitoring 
+project conducted by the Monroe County Department of Planning and Development that includes the City of Rochester. The most recent year for which data collec Ɵ on and analysis is 
+complete is 2014. 
+GTC has also contracted with INRIX to provide 
+probe-based travel Ɵ  me data for the region, 
+City of Rochester, NY | 24ROC FORWARD»»»including access to INRIX Analy Ɵ cs. GTC 
+has access to historic and real- Ɵ me travel 
+data. GTC’s agreement with INRIX allows 
+for member agencies, including the City of Rochester, to access and use this data.
+GTC supports the Monroe County Department 
+of Transporta Ɵ on’s (MCDOT) e ﬀ ort to collect 
+traﬃ  c volume and classi ﬁ caƟ on counts 
+in the City on a periodic basis. This data complements the e ﬀ orts of the New York State 
+Department of Transporta Ɵ on (NYSDOT) to 
+collect tra ﬃ  c volume and classi ﬁ caƟ on counts 
+for the Highway Performance Monitoring System (HPMS).
+Further, GTC is responsible for the 
+development and on-going maintenance of a Regional Travel Demand Model and regularly conducts analyses for member agencies, including the City of Rochester, and other municipali Ɵ es in the Rochester Metropolitan 
+Planning Associa Ɵ on.
+Regional Transit Service (RTS) collects the following data for the transit system:
+ »Ridership data by route and stop based upon the use of the farebox on the bus.
+ »Ridership data by route and stop based upon the number of people who walk on the and o ﬀ  the bus. 
+ »Smartcard and fare media pass tracking by serial number.
+ »Real-Time GPS loca Ɵ on of the bus at each 
+stop.
+ »Customer and organiza Ɵ on contact 
+InformaƟ on through call center, fare 
+media, social media, in person, and through e-mail.
+A wealth of data is currently being collected, analyzed and employed to enhance the transporta Ɵ on system and the economic 
+environment of the City.
+New Data Collec Ɵ on
+The essen Ɵ al goal for technologies addressing 
+data collec Ɵ on is the wealth of disparate 
+systems and data sources involved. This Big Data problem exists in every city today. This inability to collect, analyze, and sharing between the various city transporta Ɵ on 
+systems and human service organiza Ɵ ons is 
+common to most ci Ɵ es across our na Ɵ on. 
+The development of a standardized set of data workﬂ  ow processes, security standards, 
+architectural design, and search criteria, will bene ﬁ t many ciƟ  es by reducing this disparate 
+data gathering and sharing processes. 
+The City and RMAPI are currently working 
+closely with the NYS Poverty Task Force, a group of high level state oﬃ   cials to formalize 
+data sharing agreements with NYS OTDA/Monroe County Department of Human Services (Public Bene ﬁ ts), NYS Department of 
+Labor, and NYS Department of Correc Ɵ ons and 
+Community Supervision. We will expand this sharing agreement to include our addi Ɵ onal 
+public partners (MCDOT, NYSDOT, RTS) as well as our private partners, (XEROX, IBM, GE, etc.) This will be essen Ɵ al to track and demonstrate 
+long term outcomes for individuals interac Ɵ ng 
+with the Smart City Challenge team.
+The IBM Smarter CiƟ  es Challenge Report, 
+dated January 27, 2016, provided a thorough 
+outline for data collec Ɵ on and data governance 
+as related to an Ɵ -poverty iniƟ  aƟ ves. In a 
+coordinaƟ on eﬀ ort, our team will adopt a 
+similar structure as described in the following manner:
+Master data
+Data strategy and designRelationship between master and 
+transactional views of the dataTransactional dataData models Data standards Data rules Data policies Data quality
+AnalyticsOperations
+A Model for Data Governance: from IBM’s Smarter Ci Ɵ es Challenge Report
+City of Rochester, NY | 25ROC FORWARD»»»Data governance
+ »Establish a Data Hub for collabora Ɵ on – 
+this hub will centralize informa Ɵ on for all 
+parƟ cipants.
+ »Assign Data Stewards for the Data Hub  – 
+each partner will iden Ɵ fy a data liaison and 
+will appoint data stewards with clear roles 
+and responsibili Ɵ es.
+ »Deﬁ ne and Publish Data-sharing Policies 
+and Guidelines  – create a data coali Ɵ on 
+agreement for all members of the Hub.
+ »Appoint a Chief Data O ﬃ  cer (CDO) – 
+the primary role of the CDO will be to understand, advocate, and govern on behalf of the data.
+ »Determine data governance ac Ɵ ons  – 
+develop and implement a data strategy with clear objec Ɵ ves, data quality 
+management processes, data standards, and data policies.
+ »Enable data analyƟ  cs – build capabili Ɵ es 
+to develop analy Ɵ cal models and outcome 
+measurements.
+ARCHITECTURE, STANDARDS & PROCESSES
+The City of Rochester and other regional transporta Ɵ on agencies (GTC, Monroe 
+County, and NYSDOT) who are par Ɵ cipaƟ ng 
+in this project are also par Ɵ cipaƟ ng in the 
+development and update of the Rochester’s Regional ITS Architecture. Projects from the 2011 ITS Strategic Plan are integrated into the Regional ITS Architecture and evaluated for consistency with the New York State-wide ITS Architecture. Updates to the Regional ITS Architecture are undertaken as o Ō en as 
+needed. The 2011 ITS Strategic Plan called for applying a consistent set of standards to tra ﬃ  c 
+signals, communica Ɵ ons, and data interchange 
+across the region. All projects undergo a governance review to ensure they conform to the recommenda Ɵ ons of the strategic plan and 
+ITS architecture. Furthermore, when developing the system requirements for our Smart City vision we will ensure compliancy with IEEE and ISO Standards as established by IEEE 1233: correct, compaƟ ble, complete, feasible, veri ﬁ able, 
+traceable, and modi ﬁ able. The requirements 
+will be developed based on USDOT guidance as well.
+With respect to interacƟ  ng and sharing lessons 
+learned with the standards development 
+organizaƟ ons (SDOs), a number of state and 
+regional transporta Ɵ on staﬀ  are acƟ ve and 
+parƟ cipate in ITS standard development 
+eﬀ orts. Our private sector partners are 
+naƟ onal and interna Ɵ onal leaders in the US 
+standard development ac Ɵ viƟ es. For example, 
+Koorosh Olyai is the chair of the US delega Ɵ on 
+to the Interna Ɵ onal Standards Organiza Ɵ on 
+Technical Commi Ʃ ee 204 (ISO TC 204) which is 
+responsible for development of ITS Standards as well as a harmonized connected vehicle (CV) suite of standards. Our team members are also members of the SAE and IEEE connected vehicle and communica Ɵ ons standards groups 
+who are promulga Ɵ ng Internet of Things (IoT), 
+Communica Ɵ ons (DSRC), Big Data, Connected 
+Vehicle (CV) and Automated Vehicle (AV) standards. These are cri Ɵ cal in deploying a 
+consistent set of standards for this challenge. We strongly support development of standards for interoperability purposes na Ɵ onally. 
+With respect to interacƟ  ng and sharing lessons 
+learned with the standards development organizaƟ ons (SDOs), a number of New York 
+State and City of Rochester transporta Ɵ on 
+staﬀ 
+ are acƟ ve and parƟ  cipate in ITS standard 
+development e ﬀ orts.  Our private sector 
+partners are Na Ɵ onal and Interna Ɵ onal 
+leaders in the US standard development acƟ viƟ es, for example, Koorosh Olyai is the 
+chair of the US delega Ɵ on to the Interna Ɵ onal 
+Standards Organiza Ɵ on Technical Commi Ʃ ee 
+204 (ISO TC 204) which is responsible for development of ITS Standards as well as a harmonized connected vehicle (CV) suite of standards.  Our team members are also members of the SAE and IEEE connected vehicle and communica Ɵ ons standards groups 
+who are promulga Ɵ ng Internet of Things (IoT), 
+Communica Ɵ ons (DSRC), Big Data, Connected 
+Vehicle (CV) and Automated Vehicle (AV) standards. These are cri Ɵ cal in deploying a 
+City of Rochester, NY | 26ROC FORWARD»»»consistent set of standards for this challenge.  
+We strongly support development of standards for interoperability purposes na Ɵ onally.
+GOALS & OBJECTIVES
+When you look at the history of transporta Ɵ on 
+in our community, the economy of the City of Rochester has been determined in no small part by transporta Ɵ on assets, such as 
+the Erie Canal, the railroads, and the growth of the interstate system. Now, building on these assets, the City of Rochester’s vision is structured to strengthen our transporta Ɵ on 
+network in the 21st Century by leveraging advanced technologies to address the challenges we have in safety, mobility, sustainability, economic vitality, and climate change. Rochester is ready to connect everything.
+Rochester will move be Ʃ er by 
+enhancing mobility.
+In the 21st Century, Rochester will focus on the overall connec Ɵ vity of our neighborhoods. We 
+will provide Rochesterians with the needed access to reliable, a ﬀ ordable transporta Ɵ on 
+that provides opportuni Ɵ es for employment, 
+child care, health care, educa Ɵ on, as well as 
+all of the other services residents and families need. As men Ɵ oned previously, Rochester 
+has the second-highest poverty rate in the naƟ on, resul Ɵ ng in a situa Ɵ on that threatens 
+our community’s economic future. Enhanced mobility is one avenue to help turn this situaƟ on around.
+ »Rochester will test automated vehicle performance in a four-season climate. 
+ »Rochester will demonstrate that an enhanced transit service can make a posiƟ ve impact on low income residents. 
+ »Rochester will provide real- Ɵ me traveler 
+informaƟ on and emerging mobility services 
+to improve personal mobility. 
+ »Rochester will increase mobility for pedestrian and bicycle access. »Rochester will focus mobility improvements on our overall demographics (e.g. aging popula Ɵ on, 
+disabled, millennials, etc.). 
+Rochester will improve safety.
+By using advanced technologies, including CV technologies, Rochester will reduce the number and severity of collisions, resul Ɵ ng in 
+fewer fataliƟ  es and injuries.E ﬃ  ciency is at the 
+forefront of Rochester’s vision for the future. 
+Rochester will focus on crea Ɵ ng a connected 
+community that will provide the infrastructure 
+for the future. 
+ »In the 21st Century, everyone needs the ability to be connected and therefore the City of Rochester will be incorpora Ɵ ng a 
+City-wide Wi-Fi network. 
+ »Smart Road technology will also be incorporated to make sure that every signalized intersec Ɵ on within the City of 
+Rochester has the ability to adapt to the changing tra ﬃ  c condiƟ ons. 
+Rochester will build for a 
+sustainable future. 
+Rochester’s primary goal is to build a thriving 
+liveable community throughout the city that provides access, neighborhood cohesion, opportunity, economic compe Ɵ Ɵ veness, and a 
+“sense of place.” 
+Rochester will adapt to a changing 
+climate. 
+The technologies implemented by the City 
+of Rochester will support a more sustainable relaƟ onship between transporta Ɵ on and the 
+environment through fuel use and emissions reducƟ  ons. 
+Upon selecƟ  on as a Smart City Challenge 
+Finalist, the City of Rochester will work with our consor Ɵ um partners to iden Ɵ fy a set of 
+targeted performance measures that relate to the primary impact of our deployment. The deployed technologies will be capable of generaƟ ng the data needed to demonstrate 
+how well the system is performing with respect to the iden Ɵ ﬁ ed target measures. 
+City of Rochester, NY | 27ROC FORWARD»»»EVIDENCE OF 
+CAPACITY
+The City of Rochester has a long history of delivering high-quality, large-scale public projects u Ɵ lizing federal funding. The most 
+current example of this is the Inner Loop East Transforma Ɵ on project, currently under 
+construcƟ  on. This $24 million project received 
+$17.7 million in TIGER funding in 2013 to remove a deteriorated and underu Ɵ lized 
+secƟ on of the Inner Loop Expressway in 
+Downtown Rochester and replace it with a new high quality complete street. This project will reconnect neighborhoods, remove structurally-de ﬁ cient bridges, encourage 
+walking and biking, and create over six acres of land for redevelopment that will generate jobs and leverage private investment. This project is being developed by the City of Rochester on schedule and on budget. Other Recent examples of major federally-funded City transporta Ɵ on projects include:
+ »Midtown Rising Redevelopment , a $100 
+million project, is signi ﬁ cantly shaping the 
+rebirth of the downtown core through major public and private investment, job creaƟ on, and infrastructure 
+development. At the heart of the project is the rehabilita Ɵ on of the nearly 9-acre 
+former Midtown Plaza into a mixed-use area designed to a Ʃ ract a criƟ  cal 
+mass of residents and 24/7 ameni Ɵ es 
+that contribute to a vibrant live-work environment. This project has created a resurgence of downtown acƟ  vity and is 
+currently rede ﬁ ning Rochester’s City Center 
+for future genera Ɵ ons. 
+ »The Broad Street Tunnel Reconstruc Ɵ on 
+project , a $23 million project completed 
+in 2011 which ﬁ lled in a deteriora Ɵ ng 
+subsurface tunnel and fully reconstructed a major surface arterial. 
+ »The Port of Rochester Infrastructure Improvements project , a $40 million 
+project that constructed new streets, sidewalks, ligh Ɵ ng, drainage, parking, 
+mulƟ -use trails, and public space on 
+a previously-unde ﬁ ned parking area 
+surrounding the historic Port Terminal Building. 
+Ground Breaking Ceremony for the Inner Loop East Transforma Ɵ on Project
+City of Rochester, NY | 28ROC FORWARD»»»ExecuƟ  ve Commitment:  The City of Rochester 
+will be the grant recipient and primary point 
+of contact responsible for federal grant administra Ɵ on and repor Ɵ ng procedures. 
+Mayor Lovely Warren, as demonstrated by the cover leƩ er to this applica Ɵ on, is commi Ʃ ed to 
+successful delivery of our Smart City vision.
+Workforce Capacity:  The City of Rochester has 
+an excellent working rela Ɵ onship with local 
+labor unions. In fact, for three of the projects 
+listed above, the City developed project labor agreements (PLA’s) with the local unions to assure that su ﬃ  cient workforce capacity is 
+available in the Region. The City of Rochester, along with the local unions, is very proud of their teaming abili Ɵ es and past successes. 
+Likewise, the region has well-established partnerships for workforce development through regional academic partners such as Monroe Community College. Should Rochester be chosen as a Smart City Challenge ﬁ nalist, 
+the City will work with regional partners to create a workforce development strategy to ensure that the local labor force is ready and equipped for the economic opportuni Ɵ es that 
+will arise.
+Degree of Infrastructure Readiness:  The 
+transporta Ɵ on infrastructure of the City of 
+Rochester is already well-prepared to meet the 
+needs of the Smart City Challenge. The tra ﬃ  c 
+signal system is computerized and coordinated remotely from the Regional Tra ﬃ  c OperaƟ ons 
+Center, where tra ﬃ  c monitoring capabili Ɵ es 
+are acƟ ve 24/7. Likewise, the RTS transit ﬂ  eet 
+is ouƞ iƩ ed with CAD/AVL and provides real-
+Ɵ me arrival and status informa Ɵ on to the 
+public through mul Ɵ ple plaƞ orms. There is an 
+expansive municipal ﬁ ber network in the city 
+with excess capacity.
+Data & Performance Management 
+CapabiliƟ es: The City and consor Ɵ um 
+partners already collect and analyze data for a wide variety of municipal applica Ɵ ons and 
+public informa Ɵ on. The City’s Department 
+of Informa Ɵ on Technology is well aware of 
+the Smart City Challenge and is prepared to accommodate any and all requirements in coordinaƟ on with our partners.LEVERAGING FEDERAL RESOURCES
+It is anƟ cipated that opportuni Ɵ es for cost-
+sharing and in-kind service delivery will be made available through the City and its project partners. The ability to leverage the federal resources provided through the Smart City Challenge to a Ʃ ract addi Ɵ onal ﬁ nancial and 
+technical assistance will help to ensure that Rochester’s Smart City vision produces a real and long-las Ɵ ng impact on Rochester, New 
+York State, and the na Ɵ on as a whole. Upon 
+noƟ ﬁ caƟ on as a Smart City Challenge ﬁ nalist, 
+the City will work with our consor Ɵ um of 
+partners to secure commitments to leverage addiƟ onal funding and/or in-kind products and 
+services. 
+ROC Forward: creaƟ  ng a smart, sustainable 
+city for the 21st Century. 
+City of Rochester, NY | 29ROC FORWARD»»»ROCHESTER CYCLING ALLIANCE
+In partnership with
+City of Rochester, NY | 30ROC FORWARD»»»"	WHATS INSIDE Vision 1 Popula Characteris cs 6 Characteris cs 7 Preliminary Site Map 9 Approach 10 Risk Management 19 Team 20 System 21 Data Collec 24 Architecture Standards Processes 26 Goals Objec 27 evidence Capacity 28 Opportuni es Leverage Federal Resources 29 Le er commitment Appendix AOUR VISION Rochester resurgent historically one Americas fi rst boomtown Rochester recently endure half century decline cause job loss reduce private sector source regional funding high percentage poverty stricken ci zen today experience wave revitaliza thousand unit new housing soon build Center emerge Downtown Innova Zone genera ng high quality job investment combine force change fortune urban core focus manage growth rather stem decline whether dissec ng Midtown Plaza superblock remove sunken Inner Loop Expressway develop intermodal transporta hubs aggressively build extensive bicycle network Rochester commi ed crea ng sustainable 21st Century however region face cri cal test determine whether 21st Century meet need resident spite abundant resource apparent wealth Rochester compare mid sized ci es home crippling concentra urban poverty recent study indicate Rochester high rate child poverty high rate extreme poverty second high rate poverty overall na unless rate scale poverty community address region struggle meet full poten al leadership Mayor Lovely Warren Governor Andrew Cuomo coordina broad public private non pro fi ini community target 50 reduc poverty next 15 year end Rochester recognize unique opportunity Challenge provide dedicate technological advancement transporta sector achieve goal reduce urban poverty improve quality life ci zen three way improve safety travel ci zen enhance mobility crea ng er travel op advance environmental sustainability reduce energy consump greenhouse gas GHG inve ng Challenge leverage private sector fund able enhance long term transporta solu ons er connect communi es employment center educa center health care facili es service Rochester assemble consor um partner commi ed successful implementa Challenge award result achieve Rochester replicable ci es across country Transporta Poverty Transporta play regre able role crea ng environment poverty concentrate spread Ci es historically grow outward transporta innova fast effi cient transporta service enable people live far historic center phenomenon nothing new however prolifera car couple suppor infrastructure land use fi nancial policy enable take place massive scale begin 1950s impact ci es Rochester two fold first foremost suburbaniza rob ci es signi fi share middle upper income family leave goal reduce poverty 50 15 year use Vision drive force change Rochester NY 1roc forwardbehind largely poor working class populace Rochesters popula peak 1950 330000 today Citys popula 210000 loss one third secondly rush serve car compete suburban development lead ci es make poor decision allow decision make behalf decision include wholesale demoli neighborhood accommodate interstate expressway en build establish African american communi es widening street increase vehicular throughput typically expense bicyclist pedestrian removal streetcar trolley line street corridor demoli historic building street favor parking facili es car orient development Rochester like many ci es scar decision much historic fabric destroy social network bind resident business together lose well people le business follow crea ng downward spiral disinvestment many neighborhood also create spa al mismatch new job opportuni es low income resident job migrate periphery inner resident ability access become strained combine host factor ul mately result chronic unemployment poverty neighborhood Transporta neither cause solu poverty however undeniable transporta contribu ng factor e ff ort improve accessibility mobility resident signi fi cantly improve outcome disadvantaged take Sheila example reside neighborhood work low wage job small manufacturer short walk home Sheila able stay poverty part although car everything need locate within local community day care grocery health care employment within easy reach however employer decide relocate business suburban site ten mile away new loca far walk bike poorly serve transit Sheila ff ord car salary must rely current transit service bus service frequent low density suburban area must add 90 minute daily commute way day care provider long accommodate child schedule new provider find add another 30 minute commute Sheilas health child su ff er doctor visit must curtail en show late work due fl uctua ons travel cause tra ffi c condi ons weather event control prompt employer terminate posi comparable employment opportuni es HIGHEST high rate childhood poverty 501 high rate extreme povertythe second high rate poverty nation HIGHEST SECOND HIGHEST Rochesters Poverty Issue Numbers accord September 2015 Rochester Monroe poverty Ini report Rochester NY 2roc forwardher neighborhood Sheila child live poverty common scenario play Rochester ci es na onwide unless address threaten na ons future economic compe veness yet present unique opportunity use resource Challenge make ci es future transporta system work resident Rochesters challenge one well prepared address Mayor Warren take step drive change launch Mayors ffi ce Innova Strategic Ini f lead Rochester Monroe poverty Ini RMAPI together key agency partner prepare new program policy recommenda ons impact poverty include issue transporta program state level support offi ce Governor Cuomo direct communica ons task force comprise high level New York State offi cial Governor Cuomo already poin ng eff ort example state follow RMAPI recently approve poverty target area encompass three con guous neighborhood target area test measure impact new poverty strategy area select data drive process iden fi ed area good exis ng resource impact socioeconomic issue ffi ce Innova help design program datum share good prac ce ensure capabili es track long term individual outcome ffi ce also retain evaluate program impact help make modi fi ca ons necessary give en investment datum sharing evalua occur within area ideal loca also pilot new transporta technology design posi vely impact people poverty hGF GFGF GF14621 CONEA BEECHWOOD EMMABENSONHURST neighborhood ARTSN MARKETVIEW HEIGHTS CENTRAL BUSINESS DISTRICT NORTH WINTON village MARKETVIEW HEIGHTS PARK MEIGSNEMNU park centralnorth WINTON VILLAGECULVER merchant CORN HILL WADSWORTH SQUARE CULVER UNIVERSITY EASTMainBay EastClifford Culverth ScioUnion Clintoneph Atlan ticuniversityson Portland Broad ParkWebster GoodmanSouth Alexander Ches tnutSt Pa ulcart er AndrewsMe rchant Central Exchange MonroeWoodburyNiagara Draper CircleClev eland BroadwayUniversityGoodman Libraries Recreation Centers 3city school U Social Service Providers GF Healthcare Providers h Employment Services Pilot Area BoundaryMapped Henry Fitts Rochester Office Innovation Strategic Initiatives December 2015 poverty Target Area neighborhood Marketview Beechwood EMMA Rochester NY 3roc FORWARDOur propose Elements Rochester partner intend develop 21st Century transporta system address mobility safety need grow local regional economy ere stairway poverty primary focus enhance transit accessibility resident 73 underserve public transporta must face challenge directly crea ng path quality job ci zen build robust transporta system consistent state vision USDOT Ladders Opportunity Ini promote Secretary Foxxs leadership inve ng Rochesters vision leverage private sector funding create enhance transporta network er connect resident employment educa health care service goal accelerate ongoing e ff ort establish Rochester global innova hub program create 10000 high quality job Rochester 2020 rebuild manufacturing base process region determined work partner public private sector Connected share Automated CSAV build Rochester USA engage preliminary discussion EasyMile one key partner endeavor regard manufacturing facility USDOT Challenge shine light innova opera onal strategy technology connected CV automate AV ff ere new hope address complex transporta challenge face na nourish hope con nue economic prosperity clear rely past solu ons work today environment Ci es like Rochester constantly face dilemma less grow frustra traveler combine worsen infrastructure performance demand new innova strategy develop applica CSAV shu le fi rst last mile ff er poten al signi fi performance improvement much low cost much fast meframe previously possible solu ons scalable synergize Citys investment mul modal transporta improvement meet need resident future Rochester assemble impressive consor um local regional state agency organiza tu ons high learning industry partner commi ed success Rochesters vision Challenge address poverty ini f highlight primary propose element list Urban Automa partnership EasyMile Kodak Rochester Genesee Regional Transporta Authority RGRTA deploy automate transit shu le internal street network Eastman Business Park EBP 1200 acre private technology campus Rochester solve fi rst last mile issue transit accessibility demonstrate eff ec veness automate transit posi EBP Rochester future economic growth upon successful tes ng EBP cipate deployment would transi public street Rochester early deployment focus poverty target area andor Downtown Innova Zone work New York State enact legisla facilitate automate deployment ini ally Rochester expand statewide Intelligent Sensor base Infrastructure partnership GE deploy GEs current technology via Citys extensive street ligh ng system technology use intelligent lead light fi xture ou ed sensor transmi er microprocessor create comprehensive datum grid ere unparalleled possibili es variety considera tra ffi c op miza parking management asset oversight environmental awareness Rochester NY 4roc FORWARDUrban Analy cs partnership IBM RIT harness power Big Data RITs intellectual capacity address wide variety municipal need performance measurement service delivery op miza public informa share User Focused Mobility Services Choices partnership Xerox RGRTA share mobility service provider develop leading edge applica real transporta informa enable er decision making respect travel op integrated payment op advance mobility demand concept facilitate resident choose car free car light lifestyle interoperable mobile fare payment combine wide variety travel op transit rideshare carshare bikeshare taxi parking etc goal equitable access un bank resident without access credit primary considera Urban Delivery Logis cs partnership Verdant Global establish highly e ffi cient automate AgriFactory exis ng vacant warehouse Rochester Verdant AgriFactory demonstrate leap beyond tradi onal greenhouse produc yield signi fi cantly fresh healthy produce previously think possible also repurpose exis ng vacant warehouse space easily accessible urban popula technological advancement poten al signi fi cantly reduce emission elimina ng ineffi cient long range transport produce fully automate system lend local distribu via connect andor automate delivery technique use analy cs minimize con fl ict delivery tra ffi c need street Implementa Rochesters vision enable USA demonstrate global leadership emerge technology clear way safe mobile sustainable ci es furthermore successful implementa help Rochester ci es na wide ack urban poverty improve quality life live poverty Rochester small enable nimble allow federal dollar fund innova solu ons collabora coopera environment minimize risk provide assurance region focus deliver focus future consor um guide investment wide reach demonstra ng community suppor invest impleman ng Challenge Program Management Implementa comprehensive governance framework cri cal ensure interagency collabora transparent accountability throughout life Challenge Rochester serve primary Point Contact USDOT aspect Challenge assist sta ff leadership management responsibili es Stantec provide project management service technical exper se work closely project partner ensure successful implementa Citys vision cipated Governing Board chair Mayor consis ng high ranking ffi cial many public Rochester NY 5roc forwardprivate sector partner provide high level oversight program Technical Council provide ongoing opera onal management research technical ac vi es Engineer chair Council assist Stantec staff level representa project partner Citys Director Innova serve Chief Data Offi cer purpose Challenge lastly Ci zen Advisory Commi ee establish representa sta ff stantec many public advocacy organiza help ensure ini f mee ng need public Commi ee elect Chairperson among member serve Governing Board appoint representa serve Technical Council POPULATION CHARACTERISTICS Rochester ideal candidate Challenge accord 2010 Census Rochester popula 210565 represen ng signi fi share overall popula 29 live within urbanized area 3578 square mile land comprise exhibit density 58849 person per square mile Rochester third large New York State seat Monroe County 2010 popula 744344 center large six county metropolitan area popula 1079671 2010 Rochester also diverse place 417 popula African American 376 white 164 hispanic La 31 asian 12 American Indian Alaska Na na Hawaiian far recent Census datum indicate Rochester high rate child poverty 501 high rate extreme poverty second high rate poverty overall na diverse popula resident face economic hardship successful implementa element Rochester broad applicability ci es na onwide Rochester New YorkUS Department Transporta Stantec Program ManagerGovernance Board Board Chair Mayor Warren Technical Council Council Chair Engineer Chief Data ffi cerCi zen Council Council Chair elect Members Rochester NY 6roc forwardother CHARACTERISTICS Exis ng Transporta System fix route bus transit service Rochester broad region provide Rochester Genesee Regional Transporta Authoritys Regional Transit Service RTS RTS currently operate 40 route serve neighboring suburb 18 million rider u lize RTS annual basis conducive Environment Rochester one Americas crea communi es rank among top communi es patent issue per capita well percentage worker crea industry talent pool collec capabili es well regard summer 2015 Rochester name home new American Ins tute Manufacturing Integrated Photonics Na onal Network Manufacturing Innova NNMI tute surprise well posi one take lead role among US ci es demonstrate deploy advanced transporta technology leadership Con nuity Rochester Strong Mayor Council government system system Mayor possess wide range administra control government func Mayor Lovely Warren third year fi rst term Mayor already announce inten seek elec second term primary sta ff member long term municipal employee possess signi fi experience federal project program outset program succession plan develop ensure con nuity leadership sta ff level change take place project manage Citys Bureau Architecture Engineering oversee consultant team Stantec global fi rm recognize special es advanced transporta technology Stantecs involvement also ensure con nuity con nue focus successful program delivery share Economy Rochester home strong tradi grassroots community development alterna think currently work support sharing economy Rochester NY 7roc FORWARDalterna ownership structure design develop economically inclusive community last year several e ff ort pop area Market Driven Community Coopera f since 2014 Mayors ffi ce Innova inve ga ng poten al economic development strategy center around worker coopera business business design create entry level employment opportuni es rochester distressed neighborhood Democracy Collabora na onal leader community wealth building worker coopera development recently complete study look feasibility strategy Rochester Democracy Collabora remain involve Evergreen Coopera f successful model Cleveland Ohio link new worker business supply chain need local anchor tu ons like universi es hospital study iden fi ed signi fi local anchor interest six speci fi c business opportuni es base market research Democracy Collabora recommend form non pro fi hold company provide administra human resource support subsidiary pro fi worker business non pro fi also manage revolving loan pool business development service help launch new worker business Mayor Council highly excited poten al project fund next phase project ensure business opera onal early 2017 Kiva Rochester chapter though Rochester robust small business community many entrepreneur would business owner face insurmountable fi nancial barrier try launch expand business due restric lend policy assessment risk Kiva interna onal crowdfunding micro fi nance tu provide 0 interest loan low income underserved entrepreneur small business funding loan secure internet crowdfunding well match fund community organiza ons loan issue quali fi ed borrower follow process evaluate establish creditworthiness borrower undergo assessment creditworthiness process social underwri ng char acter strength support network oppose exclusionary criterion fico score collateral cash fl ow use good indicator success borrower pay back loan Kiva reissue fund quali fi ed borrower currently work Rochester Area Community Founda local bank establish Rochester Kiva chapter 100000 revolving loan pool match internet donor program launch summer 2016 key Kiva staff person work neighborhood base organiza one rochester underserved neighborhood RocShare RocShare new organiza found 2014 commi ed promo ng sharing economy Rochester RocShare inventory mapping sharing economy resource annually hold Sharefest conference showcase local sharing economy e ff ort FreeMarket event donate item available new owner finally RocShare work provide policy proposal might er support share economy associate e ff ort open accessible Data increase amount open datum make available public 2012 hire fi rst wide gis coordinator Department Informa Technology 2013 launch fi rst open datum portal interac mapping interface allow neighborhood group ci zen explore communi es look data point crime property value compile census demographic data also available download intensive analysis comparison look forward work partner specifi cally IBM RIT increase open format datum share public Rochester NY 8roc FORWARD St I490I490NYS 104nys 104nys 104nys 104 i490i490 Erie CanalErie CanalRiverRiver CanalCanal Clifford Ave Clifford Ave W maine Main Highland Ave Highland Ave Mt HopeL East Ave Monroe Ave Monroe Ave Clinton Ave Clinton Ave Atlantic Ave Emerson St Emerson St Lyell Ave Lyell Ave Norton St Norton St Goodman St Goodman St Culver Rd Culver Rd Portland Ave Portland Ave St PaaulSSt Dewey Ave Dewey Ave LakeOnntarioStatePkwy LakeLakeAve Mt Read Blvd Mt Read Blvd I390I390I390 I590I590 Chili Ave Chili Ave ErieErie Genesee BBroooksAve LLakeOntario Ridgeway Ave e e e e e e e e e e e e SSSS SSSSSS SSSSSS SSt ssst SSt St n n n n n n W W W W W W W W W W W W e e e e e e e e e e e e e e e e e e e e e e e EE EEEEM eeeee EEEEEM EM EEEE EEEEEE EEEEE EEEEE n n n n n n n n AAAAAAAAttla AA c AAAAA AAAvv ccccc AAAAv AAAAAAvv v AAAAAvv v v v v ic AAAA AAAAA AAAAAAA AAA AAAAAA v v v v v AA AAA pe e pe e pe pe e pe e e Jobless Adults Poverty per SqM 0 533 534 1066 1067 1599 1600 2131 LEGEND Rochester Border R B u r u e Eastman Business Park EBP n poverty Target Area C e n e r c P e n al Roadside Technology Automated Transfer Hub EBP Connected Demonstra Area p Tr C e C N L L L L L RochesterRochesterCity e e e way ayA Ave waAve way Av v v v v v v v e e e e e e e e e e e beyond traffic CHALLENGE CHALLENGE Rochester NY 9roc FORWARDOUR approach Urban Automa transporta system 21st Century safe accessible equitable sustainable automated transporta service represent next era mobility innova automate transit par cular er exci ng opportunity augment expand exis ng public transporta service order er serve mobility need resident business automate transit provide new solu fi rst mile last mile accessibility challenge exis ng fi xed route transit service partnership EasyMile Kodak propose conduct fi eld tes ng deployment automate transit shu le 1200 acre Eastman Business Park EBP campus locate primarily within Rochester EBP formerly Kodak Park one na large urban technology campus EBP en rely privately operate street railroad wastewater treatment fi protec power genera 6000 worker currently employ EBP 25 square foot space 300 acre developable land signi fi growth year ahead EBP perfect real world tes ng deployment site automate transit shu le currently six Regional Transit Service RTS route provide access EBP however public bus operate campus challenge worker get bus stop workplace automate transit solve problem lead great share trip take transit cipated deployment EBP grow serve dis nguishing feature ract job investment urban campus Rochester also aggressively pursue opportuni es manufacturing assembly automate transit poten ally crea ng large number high quality job community upon successful tes ng EBP cipated deployment would transi public street Rochester early deployment focus poverty target area andor Downtown Innova Zone work New York State enact legisla facilitate automate v ehicle deployment ini ally Rochester expand statewide Connected share Automated CSAV Shu le past year signifi research demonstra various av product company Google automobile manufacturer tes ng av impressive result number Ready Market RTM product CSAV shu le work need fi ne technology pace progress accelerate grow public awareness use av public er fact star ng 2016 many demonstra project begin gradually transi public street across globe want Rochester take lead role large company start inve ng billion dollar research development AV technology combina innova business model Uber demand transit result massive transforma mobility landscape signifi societal implica safety single important bene fi associate av give 90 tra ffi c incident cause human error Rochester NY 10roc forwarda natural extension av technology sphere public transporta specifi cally applica electric CSAV shu le compleman ng integra ng tradi onal mode transit demonstra phase Europe CityMobil2 ini see image past fi year hold great promise address challenge face transit operator today agency face grow public frustra inadequate parking major transit center lack reliable connec nega vely impact ridership target CSAV shu le also address mobility requirement urban se ng college campus large residen al development example resident may face daily challenge fi nde parking space inter trip andor access transit sta ons CSAV shu le address challenge e ffi cient reliable safe friendly manner especially eff ec area serve tradi onal bus mass transit help connect center transporta hubs furthermore CSAV shu le serve new mode transit dynamic rou ng essence combine good feature rideshare service tradi onal fi xe route opera csav allow impoverished ci zen get job depend speci fi c CSAV shu le implementa scenario urban center fi rst last mile infrastructure prepara may require example CSAV shu le share space bicycle downtown ar ea dedicate curb side bicycle lane case connec ng major transit hub parking area Hard Shoulder Running HSR strategy deploy accommodate high speed csav shu le Rochester se ng number college campus business park present mul ple opportuni es synergis c applica CSAV shu le peak hour key success CSAV shu le Technology te ng prototype development ongoing appropriate regulatory framework opera reduce speed safe e ffi cient early deployment development Iden fi site demonstrate transit need demand infrastructure integra Opera onal exper se ensure e ffi cient reliable service improved backbone transit BRT connec bus shu le bus improve travel reliability csav shu le operate low speed 25 mph integrate dedicated bicycle lane increase Rochester ci es across North America approach help accelerate CSAV shu le adop enhance transit system ridership contribute modal shi overall op miza transporta network Rochester Complemen ng Mass Transit CityMobil2 ini Rochester NY 11roc FORWARDConnected Rochester old fully built minimal opportunity physically grow fact aggressively pursue program right size street er meet need today popula past primary focus street design wide road fast move car tra ffi c Today goal accommodate car maximize space user namely bicyclist pedestrian transit user con nue approach face rise demand future cri cal maximize e ffi ciency exis ng transporta system connected technology provide previously unimaginable opportuni es er manage system greatly enhance tra ffi c safety monitoring respond tra ffi c condi ons real op mize emergency response public transporta service among many bene fi ts connected technology allow ci es meet demand improve service reduce cost end Rochester propose partner GE deploy current technology street system current take advantage exis ng street ligh ng system deploy network sensor transmi er microprocessor communicate technological advancement er myriad possibili es advise driver unexpected hazard upcoming tra ffi c conge sugge ng alternate route warn wrong way driver enter expressway system simultaneously fye authori es travel public also partner Mobileye deploy shield collision avoidance technology RTS bus fl eet well Citys fl eet nearly 500 public work greatly enhance safety bicyclist pedestrian street provide er travel reliability service delivery resident business intelligent Sensor base Infrastructure able collect analyze datum inform public measure performance op mize investment decision making absence robust network sensor collec ng reliable datum provide real informa signi fi challenge propose partnership GE sensor ubiquitous throughout enable government collect wide range datum include mul modal tra ffi c volume speed pavement condi weather informa ambient air quality datum parking availability motor crash work partnership RIT IBM determine good integrate new datum collec capability exis ng datum order improve customer service manage cost improve government accountability like many ci es across USA Rochesters roadway infrastructure include pavement bridge sign deteriora ng rapidly due material aging improper usage harsh environment natural man make damage advancement sensor technology become feasible collect large scale fi eld detailed infrastructure datum 3D pavement surface datum use high performance camera laser LiDARs Iner al Naviga System INS allow er insight understanding large scale fi eld infrastructure behavior build framework sensor base spa ally enable next genera intelligent sustainable infrastructure management system include key component datum acquisi automa c informa extrac data integra intelligent infrastructure management assistance partner IBM GE Rochester NY 12roc FORWARDUrban Analy cs wealth new datum generate many ini f vision compleman ng grow supply datum already available industry partner IBM recognize global leader analy cs unmatched exper se work agency organiza around world solve problem use power informa IBM work tandem interdepartmental research team RIT conjunc non pro fi community partner Reconnect Rochester Center Disability Rights develop informa share pla orm mobile applica technique address wide variety issue range Transporta Demand Management downtown area wide universal access design good movement user focus Mobility Services Choices cri cal component enhance mobility traveler give er informa use make decision trip partnership Xerox partner develop leading edge applica real transporta informa enable er decision making respect travel op integrate payment op advance Mobility demand concept facilita ng resident choose car free car light lifestyle interoperable mobile fare payment combine wide variety travel op transit rideshare carshare bikeshare taxi parking etc goal equitable access un bank resident without access credit primary considera parking management another important factor parking impact conge aff ect safety impede access determine occupancy key understand demand se ng appropriate metered parking price hourly parking meter price keep demand search parking become painful search create conge dangerous condi frustrated motorist circle parking municipal impact revenue real weight policy decision rest squarely back customer people like motorist merchant bicyclist pedestrian stakeholder Xeroxs Merge pla orm provide means manage parking opera central management solu merge fully integrate provide analy cs aspect meter street program system integrate hardware soo ware provide real informa coin collec meter maintenance enforcement occupancy apply real datum solve parking mobility issue goal inclusive ci zen therefore engage representa f Center Disability Rights Inc CDR pro fi community base advocacy service organiza people type disabili es include 10000 disabled adult age 20 64 live poverty CDR already provide number important insight regard transporta system today tomorrow include univ ersal design use throughout transporta plan ensure segregated transporta people disabili es communica emphasis put text communica either via tex ng web base pla orm like Twi er help target young popula well Deaf Community web base site applica screen reader friendly ensure blind popula access informa mobile applica iden fi es accessible entrance building need help transporta coordina would allow person choose get bus stop close entrance plan another accessible path travel Rochester NY 13roc FORWARDUrban Delivery Logis cs Rochester team include Verdant Global help transform Rochester truly sustainable patent technology enable produce fresh consistent insec cide free produce year round business model use exis ng vacant structure repurpose operate fully automate agrifactorie local consump partner Verdant Global establish highly e ffi cient automate AgriFactory exis ng vacant warehouse Rochester eliminate many long haul delivery truck busy street highway greatly reduce GHG emission fully automate system lend local distribu via connect andor automate delivery technique use analy cs minimize con fl ict delivery traffi c need street also provide much need purpose vacant abandoned building thereby invigora ng distressed neighborhood proper es may also lead direct employment provide passive surveillance create new tax base poten ally mulate economic business ac vity business case speci fi cs opportunity may exist give back new source regional funding reinveste community new community service community center social investment believe ul mately lead reduc poverty neighborhood ini f occur Strategic Business Models Partnering Rochester fi rm believer entrepreneurial government evidence establishment ffi ce Innova Strategic Ini ves support receive Bloomberg Philanthropies ibm Smarter Ci es Ini develop innova solu ons reduce poverty community bring approach Challenge detail Sec 7 assemble dynamic broad consor um partner across level government academia business community partner commi ed make Rochester successful serve model use technological innova improve safety enhance mobility protect environment also expand equity acke urban poverty upon fi selec Finalist Rochester work partner de fi ne role responsibili es term reference func onal body Rochester partner RIT comprehensive na onal research university nearly 19000 student rit member sub grantee Region 2 University Transporta Center UTC consor um whose strategic goal economic compe veness partnership allow leverage intellectual capacity RIT UTC whole cipated opportuni es cost sharing kind service delivery make available ability leverage federal resource provide Challenge ract addi onal fi nancial technical assistance help ensure Rochesters vision produce real long las ng impact Rochester New York State na whole Grid Roadway Electri fi Electric Offi ce Electricity Delivery Energy Reliability OE take na onal leadership role modernize na ons electricity delivery system Policy Framework 21st Century Grid describe four goal pursue ensure Americans bene fi investment Na ons electric infrastructure er Rochester NY 14roc FORWARDalignment economic incen f boost development deployment grid technology great focus standard interoperability enable great innova empowerment consumer enhance informa save energy ensure privacy shrink bill improve grid security resilience OE establish seven principal grid func onal characteris cs self healing power disturbance event enable ac par cipa consumer demand response Opera ng resiliently physical cyber ack provide power quality 21st century need Accommoda ng genera storage op enable new product service market op mize asset opera ng effi ciently focus Eastman Business Park poten al private pilot campus ability analyze func onal characteris cs se ng transferrable public por become possible part exis ng program partner Energe cs Electrifi Coali grow Electric EV ecosystem Rochester expand market ev EV Charging Sta plan fi region along i90 Corridor Capital District Mohawk Valley Central New York Genesee Valley Finger Lakes Western New York implement spur EV acceptance adop outcome 1 25 EV charging sta 5 region strategically instal cri cal area enable great ev use 2 educate municipali es EV charge sta permi ng communi es EV technology 3 900 rebate EV purchase spur ev sale establish ev advocate new ev owner 4 40 ride n drive event promote ev allow consumer test drive opportunity diff erent make model single loca Rochester EV Deployment Community also foster model EV Community ev embrace public promote business government approach move ev niche product dominant ubiquitous concept outcome 1 9 EV charging sta Rochester garage public ev 2 ev Rochester ambassador technology showcase opera 3 extensive community engagement inform educate resident business throughout bene fi ts ev Rochester EV Deployment Community create replicable model New York communi es use accelera ng EV adop example charge sta Rochester Rochester NY 15ROC FORWARDConnected involve Ci zen ci zen go determine measure propose address Challenge indeed success fortunately number strong ci zen lead organiza currently provide input transporta related issue three organiza Rochester Cycling Alliance Reconnect Rochester Community Design Center Rochester educa outreach group help create broad base support exis ng public transit system shape regional policy improve system reconnect community way improve personal mobility urban vitality environmental sustainability economic development would look group well ci zen lead organiza partner phase Challenge reach ci zen currently engage use Citys website television radio public outreach mee ng social medium social medium especially useful broaden public awareness ini f undertake meet people expect meet day age 85 american adult use internet 91 adult cell phone want engage wide range people process good way reach audience inclined use new technology social medium Architecture Standards give amount datum collect variety partner robust system integrated func onality support common shared database must Rochester currently employ system transporta datum collec describe IBM Smarter Ci es Challenge Report solu base system need incorporate follow Person centric applica Mobility Master data management Content management system System interface Data security role base user access Rochester NY 16roc FORWARDAudit tracking repor ng Data warehousing Opera onal repor ng Analy cs predic analy cs Document management disaster recovery performance go task within Challenge evalua make system component determine exis ng system require upda ng new standard need recommenda ons provide USDOT Connected Reference Implementa CVRIA extent possible use CVRIA determine role process datum fl ow physical component communica protocol necessary privacy security opera use SCMS prototype concurrently use Systems Engineering Tool Intelligent Transporta set complete project architecture diagram de fi ni ons layer func onal component along inclusive Privacy Security Management Opera onal Concept align requirement necessary aspect CVRIA program management consultant stantec iden fy need stakeholder system Connected applica make deployment program enter informa gather SET soo ware tailor applica layer 2 physical enterprise view tailor layer 1 layer 0 physical diagram well layer 0 enterprise diagram prepara presenta project architecture stakeholder review panel generate Concept Opera set ware provide support andor develop remain sec Concept Opera detail generate document Informa Communica ons Technology Rochester like many ci es exis ng Informa Communica Technology ICT infrastructure lack capital investment due resurgence recessionary era past decade Concept allow evaluate ICT infrastructure build robust effi cient secure resilient ICT lower consump build redundant hi bird communica system partnership IBM GE focus Green Networking way help reduce carbon emission ICT industry Challenge present opportunity implement Citys green networking vision selec ng energy e ffi cient network technology product minimize resource use whenever possible ICT green network prac ce include impleman ng virtualiza prac cing server consolida rely cloud compu ng upgrade old equipment new energy effi cient product employ system management increase e ffi ciency promo ng telecommu ng vision low consump 25 2025 leverage mostly private sector capital investment provide mul year incen f share cost reduc revenue develop security requirement DSRC device expect deploy Rochester follow Common Criteria methodology iso standard complete analysis need develop recommenda ons security standard methodology include analyze threat assump policy objec f develop security func onal requirement mi gate threat ensure con fi den ality availability integrity authen non repudia transmi ed datum ICT compare analysis similar dome c interna onal eff ort ensure comprehensive assessment security need team expect leverage exis ng analysis update use case measure requirement overall system Rochester NY 17ROC FORWARDimplementa applica deployment viewpoint develop execute e ff ec security management opera onal strategy partner Stantec extensive experience current scms design close working rela onship USDOT partner develop fundamental security system SCMS V2V infrastructure V2I safety system applica team leverage exper se domain determine requirement ful fi lle base prototype SCMS align requirement SCMS func onal component use CVRIA determine role process datum fl ow physical component communica ons protocol necessary privacy security opera ons u lize SCMS prototype team concurrently use set complete project architecture diagram de fi ni ons layer func onal component along inclusive Privacy Security Management Opera onal Concept aligning requirement necessary aspect CVRIA Security Management Opera onal Concept include clear direc approach ensure physical security roadside infrastructure level several current hardware security standard exist ensure tamper physical device many may applicable DSRC device integrate add addi maintain strong internal organiza onal control whether technical legal administra personnel level develop include Concept order provide robust security environment possible already conduct research analysis area control bring understanding development deployment plan tool monitor measure track security element level system also speci fi ed Security Management Opera onal Concept Land Use story poverty Rochester one fuel disinvestment depopula lose 24 popula 1970 2010 increase poverty rate 18 meframe fi gure even drama c high poverty area able move away issue crime disinvestment towards safety economic opportunity neighborhood like Marketview Heights 20 home demolish due vacancy blight accord Census LODES Origin Des na Data less 5 employ resident neighborhood like Marketview Heights hold job neighborhood 50 employ make long daily commute low skill job suburb 50 job locate neighborhood hold suburban commuter seemingly illogical reverse commute one hallmark decline neighborhood macro economic force drive transforma address challenge key recommenda rochester Monroe poverty Ini RMAPI IBM Smarter Ci es Ini relate Land Use Speci fi cally RMAPI recommend purposeful development Complete Communi es IBM recommend establishment Urban Villages recommenda ons focus crea dense mixed use development land use create complete community neighborhood like Rochester NY 18roc forwardnode feature mixed income housing retail service employment health care educa onal facili es service well serve integrate mul modal transporta network minimize need private car use work partner advance recommenda Rochester Zoning Code provide strong founda Code recognize promote protect dense walkable mixed use urban character sustainable cri cal Code break away tradi onal zoning usually empt separate use en defer orient site development commercial Districts Village Center Districts provide dense mixture use housing retail complementary use serve adjacent neighborhood community large design standard create enhance reinforce design rela onship building site street establish ambiance dense pedestrian orient Zoning Code evolve con nue respond need sustainable redevelopment Rochester protect Citys uniquely urban character process upda ng Comprehensive Plan currently date 1999 key component Comprehensive Plan Update upcoming Comprehensive Access Mobility Plan transporta component plan update process begin take place concurrent meline Challenge provide unique opportunity various ini f inform Comprehensive Plan guide land use development policy decision making Rochester foreseeable future risk management Major ini f require collabora public private en es work towards deployment transforma groundbreaking solu require careful ongoing en detail reduce risk assure successful outcome team iden fi ed several high level key issue well mi ga ng measure address note Table 1 risk Category Key Issues Rank Mi ga TechnicalLegacy Systems Opera onal Incompa bili esMedium Iden fy address early possible process PolicyShiO ing priori es public agencieshigh maintain ongoing dialogue among par es assess dedicated ongoing OM fundingmedium Assure Financial Business Plans necessary funding level need State legisla enable innova onmedium work State leader elect delega crao pass legisla Ins tu onalkeepe player tableHigh maintain ongoing something everyone concept Team readiness educa trainingmedium engage player ongoing training programtable 1 Risk Management Rochester NY 19roc FORWARDOUR team Partners Rochester leadership Mayor Lovely Warren assistance commi ed consor um partner well structured organize accomplish mission consistently take leadership role transporta believe future economic vitality region depend ability provide safe reliable e ffi cient mobility transporta network clear 21st Century able compe economically without transporta network provide improve transit accessibility underserved popula must provide e ffi cient transporta system use late development Connected share Automated CSAV applica ons tes ng emerge technology leverage partnership private sector example EasyMile interna onal fi rm consider opportuni es establish manufacturing facility Rochester tech giant GE IBM Xerox Kodak Rochester collabora public sector agency private sector business tu ons public advocacy non pro fi ts fully commi ed ROC Forward Rochesters vision select Rochester successfully establish model na Governance Processes Implementa comprehensive governance framework cri cal ensure interagency collabora transparent accountability throughout life Challenge Rochester serve primary Point Contact USDOT aspect Challenge assist sta ff leadership management responsibili es Stantec provide project management service technical exper se work closely project partner ensure successful Public Sector private Sector Others Rochester Lead Agency Easy Mile Center Disability Rights Genesee Transporta CouncilGE Community Design Center Rochester Monroe countyibm Greater Rochester Chamber Commerce New York State Kodak Greentopia Rochester Genesee Regional Transporta AuthorityStantec Reconnect Rochester Verdant Global Rochester Cycling Alliance Xerox PARC Rochester Downtown Development Corp Zipcar Rochester Ins tute Technology ZagsterTable 2 ROC Forward Consor um Rochester NY 20roc FORWARDimplementa Citys vision cipated Governance Board chair Mayor consis ng high ranking ffi cial many public private sector partner provide high level oversight program Technical Council provide ongoing opera onal management research technical ac vi es Engineer chair Council assist Stantec staff level representa project partner Citys Director Innova serve Chief Data Offi cer purpose Challenge lastly Ci zen Advisory Commi ee establish representa sta ff stantec many public advocacy organiza help ensure ini f mee ng need public Commi ee elect chairperson among member serve Governance Board appoint representa serve Technical Council partnership reference Rochester assemble impressive wide range consor um public agency tu ons high learning lead edge private sector business public advocacy organiza ons primary academic partner RIT University Transporta Center UTC consor um member signi fi grow experience transporta research rit coordinate research ac vi es associate Rochesters vision thereby establish long las ng partnership public private sector many world class private sector partner work deploy innova advanced transporta technology demonstra ng proof concept lead commercializa grow na onal economy posi America global leader emerge fi eld company include EasyMile GE Xerox IBM Kodak Verdant Global cipate addi onal public private partnership emerge Rochester move ahead select public agency partner involve level government State New York State Department Transporta Safety Security Planning Development Bureau Empire State Development County Monroe County regional RTS GTC SYSTEM Arterial Miles 10396 centerline mile arterial street Rochester vast majority street within Citys jurisdic Freeway Miles 1495 centerline mile freeway Rochester jurisdic New York State Transit Services Rochester Transit Service RTS currently operate 41 route serve neighboring suburb 17 million rider u lize RTS 2013 40 million RTS Transit Center open public November 2014 Transit Center create centralize indoor transfer point bus patron heart Downtown Innova Zone RTS also provide paratransit service 175000 rider accordance Americans Disabili es Act ADA cer fi ed customer limited mobility GTC currently develop update Public Transporta Human Service Coordinated Plan part e ff ort GTC conduct analysis support usdot ladder Opportuni es ini one analysis include mapping loca low middle skill job rela concentra poverty fi xed route bus service show map follow Rochester NY 21roc FORWARDShared Use Mobility Services Carsharing service Rochester currently ff ere Zipcar currently eight Zipcars available another two south RIT zipcar work together grow availability carshare service Zipcar partner vision although bikesharing currently available Rochester cipate ini al rollout soon summer 2016 Zagster bikeshare service provider partner vision ridesharing service Uber Ly currently able operate New York State outside New York Rochester suppor pende legisla Albany permit ridesharing service operate statewide cipate legisla approve 2016 GTC sponsor roceasyride free easy use online trip planning tool help people iden fy op save money protect environment ride bus carpoole bicycling include feature make easy track cost saving environmental bene fi ts result roceasyride serve individual business organiza throughout nine county Genesee Finger Lakes Region include Rochester WAYNE ONTARIOMONROE LIVINGSTONChili avonrigagreece Lima GorhamVictorHamlin RushOgden MendonPenfield CaledoniaOntario Sweden MarionWebsterClarkson WheatlandParma CanandaiguaMacedon Palmyra Perinton HopewellHenriettaWalworth FarmingtonManchesterWilliamson PittsfordGates East BloomfieldBrighton West BloomfieldIrondequoit AvonHilton LimaWebster VictorBrockport CaledoniaFairport Honeoye FallsPalmyraMacedon BloomfieldSpencerport Churchville Scottsville ManchesterEast Rochester Pittsford Clifton Springs Shortsville RushvilleRochester Canandaigua 0 5 10mile Transit Roads Boundaries Genesee Council 2015 Federal Poverty Status US Bureau Census American Community Survey 2009 2013employment annual Wages US Bureau Census LEHD Program 2010jobs pay 15000 40000 annual wage Less 50 50 200 200 400 401 800 801 1600 1601 2400 2400 person Federal Poverty Level Sq Mi Less 500 501 2000 2001 4000 4001 6000 6001 10560 Fixed Route Bus Service Counties Municipal BoundariesConcentration Poverty low Middle skilled Jobs Transit Bus Service Rochester Metropolitan Planning Area prepare Genesee Council Staff July 2015Data source Low Middle Skill Jobs Rela Concentra Poverty Fixed Route Bus Service Rochester NY 22roc FORWARDInforma Community Technology ICT extensive municipal fi ber network within Rochester possess excess capacity Monroe County work together take advantage resource par cular interest consider municipal wi fi network fi ber backbone signi fi advantage deployment Challenge element Intelligent Transporta Systems Greater Rochester area recognize na onal leader regional coordina Intelligent Transporta Systems implementa GTC facilitate Transporta Management Commi ee TMC provide forum regional coopera opera issue Rochester ac par cipant TMC rou nely collaborate Monroe County Department Transporta serve Citys tra ffi c engineer NYSDOT strength ini f regional agency deploy hundred fi eld device well central control communica ons infrastructure impac ng every mode transporta region facilitator TMC GTC serve gatekeeper federally mandate Regional Architecture work stakeholder ensure relevant element process consistent Regional Architecture forthcoming endeavor GTC oversight TMC Transporta System Management Opera ons TSMO Strategic Plan update exis ng Strategic Plan adopt 2011 TSMO Strategic Plan look exis ng plan element lie groundwork implementa connected autonomous region Grid partnership Energe cs Electrifi Coali currently assis ng development Electric EV Market Development Program use funding New York State Energy Research Development Authoritys Cleaner Greener Communi es Program goal market development program mulate expand market EV purchase use three pronged approach instal ev charge sta ere EV incen f conduc ng outreach leverage build prior NYSERDA sponsor project EV ini f include ev readiness resource ChargeNY website regional EV charging sta plan Rochesters evse demonstra project EV tourism study Mid Hudson Innova eff ort propose directly support Governors ChargeNY ini first implemen ng EV Charging Sta plan fi region along i90 Corridor Capital District Mohawk Valley Central New York Genesee Valley Finger Lakes Western New York spur EV acceptance adop region lag behind nyc Long Islands embrace clean technology outcome 25 EV charging sta 5 region strategically instal cri cal area enable great ev use educate municipali es EV charge sta permi ng communi es EV technology 900 rebate EV purchase spur ev sale establish ev advocate new ev owner 40 ride n drive event promote ev allow consumer test drive opportunity diff erent make model second Rochester EV Deployment Community foster model EV Community ev embrace public promote business government approach move ev niche product dominant ubiquitous concept outcome 9 ev charging sta Rochester g arage public ev Rochester NY 23roc FORWARD ev Rochester ambassador technology showcase opera extensive community engagement inform educate resident business throughout bene fi ts ev Rochester EV Deployment Community create replicable model New York communi es use accelera ng EV adop DATA COLLECTION Current Data Collec con nuously build capacity capture analyze datum inform decision making measure outcome history sound prac ce area especially area grant management outcome tracking investment planning decision Department Neighborhood Business Development recently overhaul Geographic Informa Systems relate infrastructure greatly improve access sharing datum within organiza GIS datum source datum available public datum spring 2015 launch ffi ce Innova Strategic Ini f research strategy team repor ng Mayor Lovely Warren one major focus team ensure scien fi c tracking outcome measurement founda new ini f help evaluate progress track success also posi ini f sustainable funding opportuni es ffi ce Innova integral partner Rochester Monroe poverty Ini RMAPI large consor um government non pro fi ts work impact poverty Rochester together RMAPI tute poverty program pilot district test e ff ec veness measure impact partnership ffi ce Innova work local state expert design metric tracking tap datum asset non pro fi ts government agency track long term individual outcome geographic trend also work implement good prac ce datum security privacy standard program move toward implementa staff responsible sensi personal datum undergo training privacy security protocol currently place datum share agreement School District loc al Library system Monroe County share datum student library patron recrea center user primarily share property assessment datum street asset datum County also expand data sharing partnership Gov Cuomos Open NY datum ini Police Department also receive shared datum NYS Department Correc Community Supervision state federal law enforcement agency help track improve police strategy experience leverage datum variety source tra ffi c camera sensor social medium enable opportuni es op mize opera traffi c fl ow automate tra ffi c sign detec recogni monitor infrastructure condi ons road condi ons snow condi pot hole infrastructure planning public transit tra ffi c enforcement detec ng passenger compartment viola speed viola ons popula sen ment detec agency policy system health monitoring addi datum collec system Genesee Transporta Council GTC commission annual land use monitor project conduct Monroe County Department Planning Development include Rochester recent year data collec analysis complete 2014 GTC also contract INRIX provide probe base travel datum region Rochester NY 24roc forwardincluding access INRIX Analy cs GTC access historic real travel datum gtc agreement INRIX allow member agency include Rochester access use data GTC support Monroe County Department Transporta ons MCDOT e ff ort collect traffi c volume classi fi count periodic basis data complement e ff ort New York State Department Transporta NYSDOT collect tra ffi c volume classi fi count Highway performance Monitoring System HPMS far GTC responsible development go maintenance Regional Travel Demand Model regularly conduct analysis member agency include Rochester municipali es Rochester Metropolitan Planning Associa Regional Transit Service RTS collect follow datum transit system ridership datum route stop base upon use farebox bus Ridership datum route stop base upon number people walk ff bus Smartcard fare medium pass tracking serial number real Time GPS loca bus stop customer organiza contact Informa call center fare medium social medium person e mail wealth datum currently collect analyze employ enhance transporta system economic environment New Data Collec essen al goal technology address datum collec wealth disparate system datum source involve Big Data problem exist every today inability collect analyze share various transporta system human service organiza ons common ci es across na development standardized set data workfl ow process security standard architectural design search criterion bene fi many ci es reduce disparate datum gathering sharing process RMAPI currently work closely NYS Poverty Task Force group high level state offi cial formalize datum sharing agreement NYS OTDA Monroe County Department Human Services Public Bene fi ts NYS Department Labor NYS Department Correc Community Supervision expand sharing agreement include addi onal public partner MCDOT NYSDOT RTS well private partner XEROX IBM GE etc essen al track demonstrate long term outcome individual interac ng Challenge team IBM Smarter Ci es Challenge Report date January 27 2016 provide thorough outline datum collec data governance relate poverty ini f coordina eff ort team adopt similar structure describe follow manner Master data Data strategy designrelationship master transactional view datatransactional dataData model Data standard Data rule Data policy Data quality AnalyticsOperations Model Data Governance ibm Smarter Ci es Challenge Report Rochester NY 25roc forwarddata governance establish Data hub collabora hub centralize informa par cipant Assign Data Stewards Data Hub partner iden fy data liaison appoint datum steward clear role responsibili es Defi ne Publish Data share policy Guidelines create data coali agreement member Hub appoint Chief Data ffi cer CDO primary role CDO understand advocate govern behalf data determine data governance ac ons develop implement data strategy clear objec f datum quality management process datum standard data policy enable datum analy cs build capabili es develop analy cal model outcome measurement ARCHITECTURE STANDARDS process Rochester regional transporta agency GTC Monroe County NYSDOT par cipa ng project also par cipa ng development update Rochesters Regional Architecture project 2011 Strategic Plan integrate Regional Architecture evaluate consistency New York state wide Architecture update Regional Architecture undertake en need 2011 Strategic Plan call apply consistent set standard tra ffi c signal communica ons data interchange across region project undergo governance review ensure conform recommenda strategic plan architecture furthermore develop system requirement vision ensure compliancy IEEE ISO Standards establish IEEE 1233 correct compa ble complete feasible veri fi able traceable modi fi able requirement develop base USDOT guidance well respect interac ng share lesson learn standard development organiza ons sdo number state regional transporta staff ac par cipate standard development eff ort private sector partner na onal interna onal leader US standard development ac vi es example Koorosh Olyai chair US delega Interna onal Standards Organiza Technical Commi ee 204 ISO TC 204 responsible development Standards well harmonize connect CV suite standard team member also member SAE ieee connect communica ons standard group promulga ng Internet thing IoT Communica ons DSRC Big Data Connected CV Automated AV standard cri cal deploy consistent set standard challenge strongly support development standard interoperability purpose na onally respect interac ng share lesson learn standard development organiza ons sdo number New York State Rochester transporta staff ac par cipate standard development e ff ort private sector partner Na onal Interna onal leader US standard development ac vi es example Koorosh Olyai chair US delega Interna onal Standards Organiza Technical Commi ee 204 ISO TC 204 responsible development Standards well harmonize connect CV suite standard team member also member SAE ieee connect communica ons standard group promulga ng Internet thing IoT Communica ons DSRC Big Data Connected CV Automated AV standard cri cal deploy Rochester NY 26roc FORWARDconsistent set standard challenge strongly support development standard interoperability purpose na onally GOALS OBJECTIVES look history transporta community economy Rochester determine small part transporta asset Erie Canal railroad growth interstate system build asset Rochesters vision structure strengthen transporta network 21st Century leverage advanced technology address challenge safety mobility sustainability economic vitality climate change Rochester ready connect everything Rochester move er enhance mobility 21st Century Rochester focus overall connec vity neighborhood provide Rochesterians need access reliable ff ordable transporta provide opportuni es employment child care health care educa well service resident family need man one previously Rochester second high poverty rate na resul ng situa threaten communitys economic future enhance mobility one avenue help turn situa around Rochester test automate performance four season climate Rochester demonstrate enhance transit service make posi impact low income resident Rochester provide real traveler informa emerge mobility service improve personal mobility Rochester increase mobility pedestrian bicycle access Rochester focus mobility improvement overall demographic eg age popula disabled millennial etc Rochester improve safety use advanced technology include CV technology Rochester reduce number severity collision resul ng fatali es injury e ffi ciency forefront Rochesters vision future Rochester focus crea ng connected community provide infrastructure future 21st Century everyone need ability connect therefore Rochester incorpora ng wide Wi Fi network Road technology also incorporate make sure every signalize intersec within Rochester ability adapt change tra ffi c condi ons Rochester build sustainable future rochester primary goal build thriving liveable community throughout provide access neighborhood cohesion opportunity economic compe veness sense place Rochester adapt change climate technology implement Rochester support sustainable rela onship transporta environment fuel use emission reduc upon selec Challenge Finalist Rochester work consor um partner iden fy set target performance measure relate primary impact deployment deploy technology capable genera ng datum need demonstrate well system perform respect iden fi ed target measure Rochester NY 27roc FORWARDEVIDENCE CAPACITY Rochester long history deliver high quality large scale public project u lize federal funding current example Inner Loop East Transforma project currently construc 24 million project receive 177 million TIGER funding 2013 remove deteriorated underu lize sec Inner Loop Expressway Downtown Rochester replace new high quality complete street project reconnect neighborhood remove structurally de fi cient bridge encourage walking biking create six acre land redevelopment generate job leverage private investment project develop Rochester schedule budget recent example major federally fund transporta project include Midtown Rising Redevelopment 100 million project signi fi cantly shape rebirth downtown core major public private investment job crea infrastructure development heart project rehabilita nearly 9 acre former Midtown Plaza mix use area design ract cri cal mass resident 247 ameni es contribute vibrant live work environment project create resurgence downtown ac vity currently rede fi ne Rochesters Center future genera Broad Street Tunnel Reconstruc project 23 million project complete 2011 fi lle deteriora ng subsurface tunnel fully reconstruct major surface arterial Port Rochester Infrastructure Improvements project 40 million project construct new street sidewalk ligh ng drainage parking mul use trail public space previously unde fi ned parking area surround historic Port Terminal Building Ground Breaking Ceremony Inner Loop East Transforma Project Rochester NY 28roc FORWARDExecu commitment Rochester grant recipient primary point contact responsible federal grant administra repor ng procedure Mayor Lovely Warren demonstrate cover le er applica commi ed successful delivery vision Workforce Capacity Rochester excellent work rela onship local labor union fact three project list develop project labor agreement PLAs local union assure su ffi cient workforce capacity available Region Rochester along local union proud team abili es past success likewise region well establish partnership workforce development regional academic partner Monroe Community College Rochester choose Challenge fi nalist work regional partner create workforce development strategy ensure local labor force ready equip economic opportuni es arise degree Infrastructure Readiness transporta infrastructure Rochester already well prepared meet need Challenge tra ffi c signal system computerize coordinate remotely Regional Tra ffi c Opera ons Center tra ffi c monitor capabili es ac 247 likewise RTS transit fl eet ou ed CAD avl provide real arrival status informa public mul ple pla orm expansive municipal fi ber network excess capacity Data Performance Management Capabili es consor um partner already collect analyze datum wide variety municipal applica public informa Citys Department Informa Technology well aware Challenge prepared accommodate requirement coordina partner leverage federal RESOURCES cipated opportuni es cost sharing kind service delivery make available project partner ability leverage federal resource provide Challenge ract addi onal fi nancial technical assistance help ensure Rochesters vision produce real long las ng impact Rochester New York State na whole upon fi Challenge fi nalist work consor um partner secure commitment leverage addi onal funding andor kind product service ROC Forward crea ng sustainable 21st Century Rochester NY 29roc FORWARDROCHESTER cycling ALLIANCE partnership Rochester NY 30roc FORWARD	1	['T1' 'T0']	vision popula cs site	['vision', 'popula', 'cs', 'site']
