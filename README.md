@@ -85,7 +85,8 @@ The function The **normalize_text()** function takes a string of text as input a
 
 **summary()** is a function that takes in a text string and returns a summary of it. This function tokenizes the text, removes non-alphabetic tokens and stop words, stems the remaining tokens, and then selects the most frequently occurring words. The function returns a string that is the concatenation of the selected words.
 
-The values are stored in a **smartcity_predict.tsv** file
+The values are stored in a **smartcity_predict.tsv** file.
+
 *The output video of the execution with the images is stored in **docs - Execution video and images** folder*
 
 ### Code Output
