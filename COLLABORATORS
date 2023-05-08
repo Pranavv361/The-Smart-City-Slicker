@@ -1,3 +1,4 @@
+Text Analytics with python - Dipanjas S| https://github.com/dipanjanS/text-analytics-with-python/tree/master/New-Second-Edition | Chapter 5 and Chapter 6 helped me understand Topic modelling. Used his code for text normalization.
 joblib Documentation | https://joblib.readthedocs.io/en/latest/ | Helped me to dump and load models.
 Scikit-Learn clustering documentation | https://scikit-learn.org/stable/modules/clustering.html | Helped me write code for clustering.
 Scikit_Learn CountVectorizer documentation | https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html | Helped me understand CountVectorizer.
