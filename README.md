@@ -1,4 +1,3 @@
-## cs5293sp23-project3 (Text - Analytics Project 3)
 ## Author - Pranav Vichare
 ## The Smart City Slicker
 **About:**  Project 3's purpose is to  to investigate themes and similarities for smart cities with the use of cluster analysis, topic modeling, and summarization. Assume you are a stakeholder in a rising Smart City and want to know more about themes and concepts about existing smart cities. You also want to know where does your smart city place among others. The following steps should be taken.
